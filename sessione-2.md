@@ -42,5 +42,5 @@ Mentre un po più irrequieta è la nottata di Sielfer ed Enoch.
 Il giorno dopo si ritrovano nella sala dove solo poche ore prime si sono incontrati senza nemmeno che si conoscessero 
 e vengono accolti come eroi, dopo aver salvato la città e salvato numerose vite. Si siedono ad un tavolo e gli
 viene offerta la colazione, in silenzio cominciano a mangiare ognungo assorto nei proprio pensieri, finchè ad 
-un certo punto, Sielfer di "Bene, dunque si va Sud?!". 
+un certo punto, Sielfer dice "Bene, dunque si va Sud?!". 
 
