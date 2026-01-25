@@ -18,7 +18,9 @@ prende la ghianda.
 Scomparsa la Faglia anche Sielfer torna visibile e si riavvicina ad i suoi compagni, discutono della situazione
 provano ad accertarsi delle condizioni di Hilopan, ma nel mentre vengono interrotti dall'arrivo di una curiosa
 presenza.... il signor Maelor quattr'occhi, un piccolo gnomo occhialuto e pieno di carte e libri.
+
 <img width="294" height="438" alt="Maelor" src="https://github.com/user-attachments/assets/1aa06507-9fcc-4972-9e41-ed241ede1395" />
+
 «Avete visto? Una manifestazione! Gli dei mi sono testimoni, questo è importante!
 «Eccellente! Siete riusciti a contenere la distorsione.
 Mi chiamo Maelor, studioso delle anomalie arcane…
