@@ -41,3 +41,5 @@ Ora la vedono, possono sentire la potenza, la distorsione della realtà, la dist
 Tutto proviene da quel bagliore blu, Enoch si avvicina ammirando stupefatto quella potenza, Hilopan resta in disparte
 attonito, mentre Equinox che non si perde d'animo tiene d'occhio l'elfo Sielfer che in un tentativo di furtività un 
 po fallimentare si allontana dalla scena verso i boschi e diventa invisibile sparendo dalla scena.
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/440519c1-991d-4c57-83da-cdd52d69a456" />
+
