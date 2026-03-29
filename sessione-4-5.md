@@ -19,6 +19,8 @@ Più volte riescono a dinvincolarsi dalla morsa del bosco, ma ad un certo punto 
 intimoriti alla vista le radici riescono ad atterrarli, tutto sembrava perduto, la loro fine era vicino, il bosco del Canto Antico stava per diventare
 la loro tomba.... quando ad un certo punto da dietro di loro una simpatica melodia si faceva via via più forte, qualcuno o qualcosa si avvicinava.
 
+<img width="950" height="847" alt="image" src="https://github.com/user-attachments/assets/51f6d860-6ff8-4989-bc3c-d513a020ed22" />
+
 "Il vecchio Timbald è un tipo allegro,
 Nessuno l'ha mai preso, perchè Timbald è il Signore;
 Più potenti i suoi canti, e più veloci i suoi piedi.
@@ -60,6 +62,9 @@ Arrivati all'estremità del bosco su di una collinetta da cui hanno ampia visual
 verso sera sarebbero arrivati a VegliaCastello, intoppi permettendo.
 
 Camminano per diverso tempo, finchè lungo una strada trovano un vecchio con sua nipote ed un carretto rovesciato che gli chiedono di aiutarli.
+
+<img width="999" height="546" alt="image" src="https://github.com/user-attachments/assets/096d5645-974b-4cce-8218-8db4a22815b5" />
+
 Equinox per il suo buon cuore cade nell'imboscata ed insieme ad Enoch mentre provano a sistemare il carro vengono accerchiati da altri tre individui
 due umani ed un mezz'orco. 
 <img width="1339" height="805" alt="image" src="https://github.com/user-attachments/assets/e440ac11-6e19-40e2-9a53-19d553d4b0ce" />
