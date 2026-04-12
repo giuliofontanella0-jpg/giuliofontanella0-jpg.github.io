@@ -35,6 +35,9 @@ Il dragonide impettitosi “Embè VOLETE FARE 2 CONTRO 1?!?!”
 I due si rendono conto della situazione del sud e di come funzionano le cose quindi si girano e se ne vanno.
 Tornando indietro trovano Enoch che nonostante i  suoi tentativi di rimanere furtivo si trova immischiato nella rissa e gli altri due vanno ad aiutarlo. Lo stregone si becca due cazzotti forti, Equinox manca dei colpi, i ladri sembravano cavarsela, ma poi Hilopan incantando il suo randello spacca la spalla di uno dei tre rimasti, Equinox con pugno finalmente ben assestato ne stende un altro ed il quarto viene preso per il collo da Equinox buttato in mezzo alla strada e scappa con i suoi compagni feriti e poi torna dietro a dare soccorso all’uomo, insieme ad Enoch ed Hilopan.
 [ Ravelion Suth, mercante di vini e distillati]    
+
+<img width="990" height="1401" alt="image" src="https://github.com/user-attachments/assets/2779fbe5-17ab-4ac9-a4a7-84d23d1c3925" />
+
 Nel frattempo Sielfer trova la locanda, e prende l’unica stanza rimasta per quattro, pagando 14 monete d’oro compresa di cena e stallo per i cavalli si fa dire dove si trova la bottega arcana consigliatagli da Maelor qualche giorno prima, la bottega di Reminaldo, si fa spiegare la disposizione della locanda sopra le stanze e giu la sala principale e poi esce di nuovo in strada dritto alla bottega.
 Nell’uscire nota le ultime scene della rissa, si avvicina ad Enoch non curante della situazione gli sussurra “Stanza 22 ho pagato io” gli indica la direzione da seguire e se ne va.
 Intanto Ravelion Suth, ferito: «Vi devo la pelle… Questa città sta diventando invivibile.»
@@ -83,6 +86,9 @@ Anche Enoch si guarda attorno e nota la pergamena chiusa appena lui è entrato e
 “Perché lo vuoi sapere” in tono serio. “Bhè per capire quello che abbiamo attorno” e Reminaldo cambia nuovamente tono diventando bonario ed un po titubante “Ah si, certo la curiosità”, ormai sotto gli occhi di tutti è palese il comportamento bipolare del vecchio. 
 Poi parlando di spalle ai due “La natura delle Faglie… ci sono diversi pensieri al riguardo” cammina per il negozio, ormai farfuglia tra se e se e torna a fare dei gesti con le mani. 
 Compaiono delle rune come se stesse scrivendo delle formule magiche, per Sielfer sono stilisticamente simili a quelle di prime, Enoch invece comprende subito dove le ha già viste, compare un piccolo cerchio blu come fosse una rappresentazione di una faglia e poi si dissolve in un bagliore rosso e nero contorcendosi in se stesso emettendo piccole manifestazioni di ombre tentacolari nere e poi continua a parlare “La natura delle Faglie è qualcosa di esterno al nostro Piano” e si gira verso i due con una faccia molto seria. 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ff3c4d7-a2fa-45c0-8c2a-b01f95b48081" />
+
 Enoch esterrefatto con un misto di ironia e spavento “…Quindi non ne sai niente?” 
 Reminaldo nuovamente imbonito con uno sguardo dolce e basso “Nooo. Purtroppo non ne so abbastanza”.
 “Noi invece l’abbiamo vista con i nostri occhi, ed è spaventosa, ma è durata troppo poco per poterla valutare a pieno e quando è scomparsa non ha lasciato tracce, sono uscite molte entità ma una sola ne sembrava proprio legata….quasi come ne fosse il padrone”.
