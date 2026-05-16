@@ -123,4 +123,21 @@ vuole che lui veda.
 L’elementale poi, gli sussura in druidico gli chiede di trovarli e salvarli, poi scompare ed Hilopan sviene. 
 Gli altri due vedono tutto e vedono anche una delle due guardie di prima avvicinarsi e notare il druido svenuto a terra e correre a chiamare il suo compare. Di volata salgono sopra, Sielfer dice ad Enoch di rendere invisibile Hilopan e lo sposta, mentre lo stregone rimane lì attendendo le guardie fingendosi sbronzo.
 Le guardie quando arrivano battibeccano perchè effettivamente non vi è niente se non un piccolo buco nella terra ed un uomo dalla pelle scura che piscia nel fiume. "Buuuona sera signori" dice Enoch con il membro da fuori senza imbarazzo, sfoggiando una grande prova di inganno, le guardie cadendo nell'inganno del falso alcolista lo lasciano andare e se ne vanno. 
-Nel mentre Equinox 
+Sono circa le 24.
+Nel mentre Equinox dopo aver visto la scena assurda dentro il negozio di Reminaldo decide di andare contro i suoi istinti ed entrare dentro. Per farlo con l'agilità di un gatto sale sul tetto, trova un lucernaio e riesce a scassinarlo ed entra al piano di sopra, in camera da letto di Reminaldo, ma non c'è nessuno. Affacciandosi da quello che è un piccolo soppalco vede al centro del piano di sotto quello che sembra uno spettro. All'inizio l'immagine lo spaventa, ma poi preso coraggio si accorge che non è stato notato, fatto che trova ulteriore conferma quando scende le scale e lo spettro continua a dargli le spalle rimanendo girato a guardare la porta d'ingresso. Comincia a guardarsi intorno, vede molte ampolle, il librone di incantesimi standard, vari attrezzi da alchimista, molte pergamente nel mobiletto. La sua attenzione però cade su dei fogli sparsi per terra, ne trova tre:
+1) Formule arcane, con rune e strani simboli che gli sembrano oscuri ma che lui non sa riconoscere. Simili a quelli che ha visto disegnare al mago in cielo prima di sparire in mezzo a quelle evocazioni nere tentacolari.
+2) Una lettera semi bruciata dal quale si legge ancora la frase "La setta ti ripagherà, stai facendo un buon lavoro"
+3) Un foglio con il sigillo del governatore Spandann "Lavoro importante per la regina Morgena"
+
+Enoch arriva nel giardino di Reminaldo ed aspetta Sielfer, il quale poco dopo arriva nei pressi del negozio, posa Hilopan vicino ad un muretto sempre nel giardino del negozio, ed evocando il suo famiglio torna visibile. Con questo inizia a conversare e chiedere spiegazioni circa la sua sparizione di qualche ora fa. Il demone lo ragguaglia circa l'episodio in casa "Ad un certo punto lui è sparito, sembra mi abbia visto e sono sparito immediatamente anche io....aveva entrambi gli occhi BLU" (come descritto sopra). 
+Enoch e Sielfer si reincontrano, Hilopan viene fatto tornare visibile, l'elfo informa lo stregone di quanto ha scoperto tramite il famiglio... "non so in cosa ci stiamo ficcando....c'è qualcosa di oscuro, posso provare a leggere la pergamena".
+Sielfer traduce le rune oscure, ed il testo incompleto recita:
+
+“Le acque sotto la pietra non sono morte.
+Esse ricordano il nome che fu dimenticato.”
+“Il Custode Dormiente non sogna ma attende il suo padrone”
+Quando le aperture saranno allineate,
+.
+.
+.
+Il Sigillo è debole”
