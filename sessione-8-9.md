@@ -121,10 +121,15 @@ vuole che lui veda.
 3) Lo spirito mostra che gli elementali non sono scomparsi stanno soffrendo e si sono rintanati ma vorrebbero tornare nel mondo.
 
 L’elementale poi, gli sussura in druidico gli chiede di trovarli e salvarli, poi scompare ed Hilopan sviene. 
+
+<img width="943" height="540" alt="image" src="https://github.com/user-attachments/assets/64f6fc29-a954-4a3c-8f1a-358f92f45ba1" />
+
 Gli altri due vedono tutto e vedono anche una delle due guardie di prima avvicinarsi e notare il druido svenuto a terra e correre a chiamare il suo compare. Di volata salgono sopra, Sielfer dice ad Enoch di rendere invisibile Hilopan e lo sposta, mentre lo stregone rimane lì attendendo le guardie fingendosi sbronzo.
 Le guardie quando arrivano battibeccano perchè effettivamente non vi è niente se non un piccolo buco nella terra ed un uomo dalla pelle scura che piscia nel fiume. "Buuuona sera signori" dice Enoch con il membro da fuori senza imbarazzo, sfoggiando una grande prova di inganno, le guardie cadendo nell'inganno del falso alcolista lo lasciano andare e se ne vanno. 
 Sono circa le 24.
-Nel mentre Equinox dopo aver visto la scena assurda dentro il negozio di Reminaldo decide di andare contro i suoi istinti ed entrare dentro. Per farlo con l'agilità di un gatto sale sul tetto, trova un lucernaio e riesce a scassinarlo ed entra al piano di sopra, in camera da letto di Reminaldo, ma non c'è nessuno. Affacciandosi da quello che è un piccolo soppalco vede al centro del piano di sotto quello che sembra uno spettro. All'inizio l'immagine lo spaventa, ma poi preso coraggio si accorge che non è stato notato, fatto che trova ulteriore conferma quando scende le scale e lo spettro continua a dargli le spalle rimanendo girato a guardare la porta d'ingresso. Comincia a guardarsi intorno, vede molte ampolle, il librone di incantesimi standard, vari attrezzi da alchimista, molte pergamente nel mobiletto. La sua attenzione però cade su dei fogli sparsi per terra, ne trova tre:
+Nel mentre Equinox dopo aver visto la scena assurda dentro il negozio di Reminaldo decide di andare contro i suoi istinti ed entrare dentro. Per farlo con l'agilità di un gatto sale sul tetto, trova un lucernaio e riesce a scassinarlo ed entra al piano di sopra, in camera da letto di Reminaldo, ma non c'è nessuno. Affacciandosi da quello che è un piccolo soppalco vede al centro del piano di sotto quello che sembra uno spettro senza volto. All'inizio l'immagine lo spaventa, ma poi preso coraggio si accorge che non è stato notato, fatto che trova ulteriore conferma quando scende le scale e lo spettro continua a dargli le spalle rimanendo girato a guardare la porta d'ingresso. Comincia a guardarsi intorno, vede molte ampolle, il librone di incantesimi standard, vari attrezzi da alchimista, molte pergamente nel mobiletto.
+Vede a terra, vicino al ripiano dove vi era la pergamena che aveva attirato l'attenzione di Sielfer e dove lui stava facendo il suo incantesimo un cerchio nero come di bruciato.
+La sua attenzione però poi cade su dei fogli sparsi per terra, ne trova tre:
 1) Formule arcane, con rune e strani simboli che gli sembrano oscuri ma che lui non sa riconoscere. Simili a quelli che ha visto disegnare al mago in cielo prima di sparire in mezzo a quelle evocazioni nere tentacolari.
 2) Una lettera semi bruciata dal quale si legge ancora la frase "La setta ti ripagherà, stai facendo un buon lavoro"
 3) Un foglio con il sigillo del governatore Spandann "Lavoro importante per la regina Morgena"
@@ -141,3 +146,36 @@ Quando le aperture saranno allineate,
 .
 .
 Il Sigillo è debole”
+Enoch scava nella sua memoria e nelle sue conoscenze, ricorda della grande guerra che combatterono gli elfi e che scosse le fondamenta di Eldara, ricorda di quanto dettogli da Timbald Brambabosco circa la presenza degli eterni e di come probabilmente, uno di loro, malvagio aveva un araldo, un'entità gargantuesca la cui sola presenza raggelava il sangue, oscurava il sole ed era capace di sondare la mente ed i sogni degli esseri viventi. Non condivide questi pensieri con Sielfer ma commenta solo dicendo "questa è roba molto pericolosa, antica e pericolosa....destinata probabilmente alla regina."
+Si ricordano della doppia natura di Reminaldo e discutono quindi sull'entrare in casa o meno, ricordando della lettera di Maelor trovata in casa del governatore cominciano a dubitare circca la natura di questo loro lavoro, ma spinti dal bisogno di ricevere la paga promessa decidono di procedere. 
+Enoch va e bussa alla porta, mentre SIelfer resta dietro mandando il suo famiglio "MIJENTA" sotto forma di scolopendra nella tasca dello stregone, bussa, la porta si apre da sola e di primo impatto vede questa figura con due boccette nelle mani:
+
+<img width="484" height="431" alt="image" src="https://github.com/user-attachments/assets/cbcc764f-90fe-4463-bfb2-9362bcbbac88" />
+
+riconosce le ampolle, poi dietro vede anche Equinox... "Equinox...?!" , sentendo questo nome Sielfer anche si affaccia e vede tutto. 
+Lo spettro non si muove, lo stregone prova a prendere la sua pergamena ma lui si ritrae. Enoch chiede dunque ad Equinox "ma Reminaldo?" ed Equinox fa spallaucce e gli indica il cerchio a terra che lo stregone nota e si ricorda prima non esserci stato.
+Entra anche Sielfer, che vede Equinox e gli chiede "cosa ci fai tu qui?". Il paladino spaventato non risponde per timore che lo spettro lo possa notare, ma in realtà anche lui si accorge che lo spettro non lo considera, rimane fermo con le braccia tese e le due ampolle nelle mani. 
+"Perchè siete tornati qui? Siamo al sicuro?" risponde Equinox
+"Certo che siamo al sicuro, Reminaldo è un amico!" risponde Sielfer, provando a convicere Equinox di stare in guardia e lui capisce (i due non sanno che il paladino ha visto le stesse cose).
+Sielfer nota che la pergamena è scomparsa, prova a dare allo spettro un foglietto a caso e lo spettro però ritira il suo braccio. 
+Avendo capito che lo spettro vuole solo quello per cui è stato posto lì, la pergamena. 
+Decidono di prendere la pergamena, Siefer la mostra allo spettro che prontamente riallunga le due boccette, quando poi Equinox li interrompe "Non so cosa stiate facendo, ma forse devo dirvi una cosa"
+Ma Sielfer con un po di saccenza risponde "Sappiamo cosa stiamo facendo, forse tu non lo sai". 
+Equinox con un po di imbarazzo gli mostra il foglio con il simbolo della setta e loro lo riconoscono Sielfer non batte ciglio, ma Enoch si piazza tra l'elfo e lo spettro e lo guarda in faccia "Come facciamo a sapere che non è una presa per il culo?!"
+"Ho visto quel mago sparire avanti ad i miei occhi con un incantesimo oscuro, e poco fa Orso (Hilopan) sentiva una presenza arcana...ma dov'è Orso?!" chiede Equinox
+Sielfer però rivolto ad Equinox lo intima di calmarsi, sta parlando troppo.
+Lo spettro non fa niente. 
+Adesso cominciano a titubare, "e se fosse tutto finto" pensa Enoch, Sielfer lancia un incantesimo di individuazione del magico e si rende conto della veridicità degli oggetti.... "Enoch ma che cos'è quell'oggetto tuo ?" 
+"E' un oggetto che mi serve per completare qualcosa che forse può essere la chiave per qualcos'altro"
+"Io ti ho parlato di me...di te non so ancora niente"
+"Sono sicuro che non mi hai detto tutto... ma io vi dirò tutto quello che penso di poter dire"... Equinox osserva
+Sielfer un po sconfortato guarda Equinox ma poi allunga la mano e porge la pergamena allo spettro che la prende e gli da le boccette e poi sparisce. 
+
+<img width="990" height="992" alt="image" src="https://github.com/user-attachments/assets/71f4ca84-649e-4370-b5cb-9a6c9a06eee9" />
+
+
+Prima di sparire però lo spettro mostra un volto, e li guarda tutti, anche Hilopan che svegliatosi era corso alla finestra.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/824e8c5a-ee5c-43da-89a6-ffe2b43593a3" />
+
+Ora si ritrovano tutti lì nel negozio di Reminaldo, senza Reminaldo e con tanti interrogativi
