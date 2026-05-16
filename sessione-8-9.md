@@ -96,5 +96,31 @@ incantesimi. La pergamena è incompleta e macchiata di sangue. C'è un sigillo "
 <img width="718" height="478" alt="image" src="https://github.com/user-attachments/assets/fa1e3159-ddb0-4e5e-83db-8c624d66d6c7" />
 
 Senza leggere la mappa, sentendo che le guardie sono entrate in bagno, approfittando di un momento fintanto che sono ancora nascosti dal separè si fiondano nel canale di scolo e riescono poi ad emergere nel fiume.
-Non sono più invisibili.
+Non sono più invisibili, si organizzano per andare da Reminaldo.
+Enoch nota qualcosa di strano in Sielfer, vede delle macchie bianche sbiadite, come fosse trucco (probabilmente qualche schizzo d'acqua), ma non dice niente. Fermi sulla piccola insenatura vedono Hilopan tornato 
+umano vicino al grande albero nel giardineto soprastante, il druido si inginocchia, dice qualcosa e smuove la terra. 
+Compare un forte bagliore. Il druido sente la terra fredda e nera, ma all'origine del bagliore vede qualcosa che non avrebbe mai pensato di vedere, un elementale della terra. 
 
+<img width="1024" height="1536" alt="Elementale_dell&#39;albero" src="https://github.com/user-attachments/assets/05e50a84-f459-420e-a8b1-4b377729b0d0" />
+
+Creature che si pensavano ormai scomparse per sempre, ora manifeste d'innanzi ai suoi occhi increduli, "Sto sognando oppure è tutto vero" si chiede il mezz'elfo, ma prima di poter fare qualsiasi cosa la creatura
+allunga una piccola radice e gli tocca il petto. Immediatamente Hilopan va in trance, in ginocchio per terra, testa china all'indietro ed occhi girati all'indietro comincia a vedere immagini che la creatura
+vuole che lui veda.
+1) Viene mostrata una città dall’alto, sembra una capitale poi si va al di sotto, Radici nere che si espandono come una malattia nella terra. Arrivano fino ad un punto, molta nebbia, acquitrini, alberi morenti.
+
+<img width="290" height="365" alt="image" src="https://github.com/user-attachments/assets/dfbd7861-e72e-4e16-a780-21bc81f01669" />
+
+<img width="443" height="242" alt="image" src="https://github.com/user-attachments/assets/97e6f52b-8262-41f3-aa1d-ce11a09df87c" />
+
+<img width="274" height="408" alt="image" src="https://github.com/user-attachments/assets/6fdc062e-1353-460a-9d20-0e2ae9d4f392" />
+
+2) Una strega incappucciata è immersa nell’acquitrino e sta recitando formule che fanno morire le piante e gli animali, la stessa luce blu della faglia comincia a farsi vivida nell’acqua
+
+<img width="907" height="495" alt="image" src="https://github.com/user-attachments/assets/85abd64b-1490-436c-87ed-060f31e9057c" />
+
+3) Lo spirito mostra che gli elementali non sono scomparsi stanno soffrendo e si sono rintanati ma vorrebbero tornare nel mondo.
+
+L’elementale poi, gli sussura in druidico gli chiede di trovarli e salvarli, poi scompare ed Hilopan sviene. 
+Gli altri due vedono tutto e vedono anche una delle due guardie di prima avvicinarsi e notare il druido svenuto a terra e correre a chiamare il suo compare. Di volata salgono sopra, Sielfer dice ad Enoch di rendere invisibile Hilopan e lo sposta, mentre lo stregone rimane lì attendendo le guardie fingendosi sbronzo.
+Le guardie quando arrivano battibeccano perchè effettivamente non vi è niente se non un piccolo buco nella terra ed un uomo dalla pelle scura che piscia nel fiume. "Buuuona sera signori" dice Enoch con il membro da fuori senza imbarazzo, sfoggiando una grande prova di inganno, le guardie cadendo nell'inganno del falso alcolista lo lasciano andare e se ne vanno. 
+Nel mentre Equinox 
