@@ -132,7 +132,7 @@ Vede a terra, vicino al ripiano dove vi era la pergamena che aveva attirato l'at
 La sua attenzione però poi cade su dei fogli sparsi per terra, ne trova tre:
 1) Formule arcane, con rune e strani simboli che gli sembrano oscuri ma che lui non sa riconoscere. Simili a quelli che ha visto disegnare al mago in cielo prima di sparire in mezzo a quelle evocazioni nere tentacolari.
 2) Una lettera semi bruciata dal quale si legge ancora la frase "La setta ti ripagherà, stai facendo un buon lavoro"
-3) Un foglio con il sigillo del governatore Spandann "Lavoro importante per la regina Morgena"
+3) Un foglio con il sigillo del governatore Spandann "Lavoro importante per la regina Morghena"
 
 Enoch arriva nel giardino di Reminaldo ed aspetta Sielfer, il quale poco dopo arriva nei pressi del negozio, posa Hilopan vicino ad un muretto sempre nel giardino del negozio, ed evocando il suo famiglio torna visibile. Con questo inizia a conversare e chiedere spiegazioni circa la sua sparizione di qualche ora fa. Il demone lo ragguaglia circa l'episodio in casa "Ad un certo punto lui è sparito, sembra mi abbia visto e sono sparito immediatamente anche io....aveva entrambi gli occhi BLU" (come descritto sopra). 
 Enoch e Sielfer si reincontrano, Hilopan viene fatto tornare visibile, l'elfo informa lo stregone di quanto ha scoperto tramite il famiglio... "non so in cosa ci stiamo ficcando....c'è qualcosa di oscuro, posso provare a leggere la pergamena".
