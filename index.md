@@ -4,7 +4,7 @@ Benvenuti nella pagina ufficiale della campagna di **Dungeons & Dragons – Elin
 
 ## 🌍 Lore
 - [Il Mondo di Elindor](lore.md)
-- - [🗺️ Mappa Interattiva di Elindor](Mappa_Elindor_interattiva.html)
+- [🗺️ Mappa Interattiva di Elindor](Mappa_Elindor_interattiva.html)
 
 ## 📅 Sessioni
 - **23/12/2025** - [Sessione 1 – Il Prologo](sessione-1)
