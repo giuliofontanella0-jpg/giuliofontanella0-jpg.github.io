@@ -17,10 +17,21 @@ Equinox gli mostra il foglio trovato in casa di Reminaldo "guarda qui, nella bot
 "Da quando ho intrapreso il mio viaggio verso sud ho visto la realtà distorcersi sotto l'influenza di una magia che non comprendo, ed ho incontrato persone che casualmente hanno le potenzialità per contrastare questo male oscuro ed organizzato. Ho visto il suolo aprirsi in due e far emergere abomini di ogni forma, piante animarsi nei boschi ed ho visto la disperazione dei più deboli" 
 "Ad Elindor poche cose succedono contro il volere degli Dei, a discapito di chi non ci crede"
 Ed equinox fiero in volto "Io ci credo, IO LI HO VISTI!"
-I due guerrieri si guardano in un momento di silezio, Karkas ha gli occhi grandi, stanchi, colmi di rammarico per qualcosa che non è riuscito a fare e che sa non avrà tempo di concludere.... ma c'è speranza. Si alza e da sotto al letto prende un oggetto avvolto da un panno e lo scopre "questa è stata la mia compagna di tante battaglie, il tuo viaggio sarà pieno di insidie, tienila tu, potrà esserti utile" e gli porge la sua spada.
 
 Gli altri tre arrivati alla locanda, scendono al piano sotto sperando di poter bere e mangiare ancora qualcosa ed avere un attimo di riposo. All'interno della sala, non vi è più nessuno, solo i due garzoni che stanno sistemando qua e la, però li fanno comunque accomodare e gli porgono pane formaggio e della birra. 
 Enoch prende la parola "vorrei subito mettere le mani avanti, tutto quello che non vi ho rivelato in primis provoca dubbi anche a me e poi perchè non sono sicuro fino in fondo delle vostre intenzioni"
 Sielfer risponde "anche io non vi ho rivelato tutto, e se non viho rivelato la persona che sono è perchè non puoi mai sapere la reazione degli altri. Mi dispiace per Equinox e quasi mi sento in colpa, ma spero di aver modo di parlarci. Le mie intenizioni non sono molto chiare neanche a me, però posso dirvi che sono quello che ora avete finalmente visto e sono diverso da quello che potete pensare circa la mia gente"
 Alchè Hilopan risponde con un tono un po triste ma deciso "dobbiamo essere uniti, non possiamo fidarci di nessuno" e li guarda entrambi "non so se posso fidarmi di te, ed ancora più di te (riferito a Sielfer), ti ho visto trafficare quella notte da Brambabosco.... ma siete anche le uniche persone di cui mi posso fidare, quelle con cui ora sto condividendo questo viaggio e per questo vi rivelerò cosa mi ha detto il mio Pocho, perchè da soli siamo perduti. Ci eravamo fidati di quello gnomo, Maelor, ma lui nasconde qualcosa, è stato visto questa sera parlare con una strana figura incappucciata nei vicoli della città..." ed Enoch annuisce e risponde " sono d'accordo, ed ora che arriva Equinox approfondiremo il discorso, ma io speravo di trovare qualcuno come voi e sono proonto a scoprire tutte le mie carte, sperando che anche voi siate disposti a fare lo stesso".
-"Inoltre" aggiugne Hilopan "io ritengo che siete stati degli stolti ad accettare un patto con quella cosa... quell'entità" ed Enoch interviene "in realtà il patto non era con lo spettro... ma con il proprietario di casa"
+"Inoltre" aggiugne Hilopan "io ritengo che siete stati degli stolti ad accettare un patto con quella cosa... quell'entità" ed Enoch interviene "in realtà il patto non era con lo spettro... ma con il proprietario di casa, Hilopan ora mentre aspettiamo Equinox ti racconteremo quanto successo e come siamo arrivati ad incontrare quella strana figura al seguito dell'accordo con Reminaldo."
+
+I due guerrieri si guardano in un momento di silezio, Karkas ha gli occhi grandi, stanchi, colmi di rammarico per qualcosa che non è riuscito a fare e che sa non avrà tempo di concludere.... ma c'è speranza. Si alza e da sotto al letto prende un oggetto avvolto da un panno e lo scopre "questa è stata la mia compagna di tante battaglie, il tuo viaggio sarà pieno di insidie, tienila tu, potrà esserti utile" e gli porge la sua spada.
+
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/635755e8-d47a-4ced-9c00-ccb5d7388fcf" />
+
+Ma subito dopo aver accettato la spada, Equinox vede degli occhi tra le foglie vicino alla piccola finestra nell'angolo. 
+
+<img width="1024" height="1536" alt="Draaven" src="https://github.com/user-attachments/assets/1ebc5e42-e5d7-4153-9146-8bd52376d3e1" />
+
+E la figura lancia un coltello e colpisce Karkas al collo, e poi spara un dardo di luce viola (simile a quelli lanciati da Sielfere), il coltello poi per magia esce dal collo del mezz'orco che con un ultimo rantolo guarda il paladino e si accascia a terra. "Bella chiacchiarata, peccato che non uscirai vivo da qui"
+
+
