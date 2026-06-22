@@ -26,7 +26,7 @@ Alchè Hilopan risponde con un tono un po triste ma deciso "dobbiamo essere unit
 
 I due guerrieri si guardano in un momento di silezio, Karkas ha gli occhi grandi, stanchi, colmi di rammarico per qualcosa che non è riuscito a fare e che sa non avrà tempo di concludere.... ma c'è speranza. Si alza e da sotto al letto prende un oggetto avvolto da un panno e lo scopre "questa è stata la mia compagna di tante battaglie, il tuo viaggio sarà pieno di insidie, tienila tu, potrà esserti utile" e gli porge la sua spada.
 
-<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/635755e8-d47a-4ced-9c00-ccb5d7388fcf" />
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/654457c8-41ba-4761-bcc1-756bf855b167" />
 
 Ma subito dopo aver accettato la spada, Equinox vede degli occhi tra le foglie vicino alla piccola finestra nell'angolo. 
 
