@@ -24,6 +24,7 @@ Sielfer risponde "anche io non vi ho rivelato tutto, e se non viho rivelato la p
 Alchè Hilopan risponde con un tono un po triste ma deciso "dobbiamo essere uniti, non possiamo fidarci di nessuno" e li guarda entrambi "non so se posso fidarmi di te, ed ancora più di te (riferito a Sielfer), ti ho visto trafficare quella notte da Brambabosco.... ma siete anche le uniche persone di cui mi posso fidare, quelle con cui ora sto condividendo questo viaggio e per questo vi rivelerò cosa mi ha detto il mio Pocho, perchè da soli siamo perduti. Ci eravamo fidati di quello gnomo, Maelor, ma lui nasconde qualcosa, è stato visto questa sera parlare con una strana figura incappucciata nei vicoli della città..." ed Enoch annuisce e risponde " sono d'accordo, ed ora che arriva Equinox approfondiremo il discorso, ma io speravo di trovare qualcuno come voi e sono proonto a scoprire tutte le mie carte, sperando che anche voi siate disposti a fare lo stesso".
 "Inoltre" aggiugne Hilopan "io ritengo che siete stati degli stolti ad accettare un patto con quella cosa... quell'entità" ed Enoch interviene "in realtà il patto non era con lo spettro... ma con il proprietario di casa, Hilopan ora mentre aspettiamo Equinox ti racconteremo quanto successo e come siamo arrivati ad incontrare quella strana figura al seguito dell'accordo con Reminaldo."
 
+Per quanto riguarda in casa di Karkas.
 I due guerrieri si guardano in un momento di silezio, Karkas ha gli occhi grandi, stanchi, colmi di rammarico per qualcosa che non è riuscito a fare e che sa non avrà tempo di concludere.... ma c'è speranza. Si alza e da sotto al letto prende un oggetto avvolto da un panno e lo scopre "questa è stata la mia compagna di tante battaglie, il tuo viaggio sarà pieno di insidie, tienila tu, potrà esserti utile" e gli porge la sua spada.
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/654457c8-41ba-4761-bcc1-756bf855b167" />
@@ -34,6 +35,22 @@ Ma subito dopo aver accettato la spada, Equinox vede degli occhi tra le foglie v
 
 E la figura lancia un coltello e colpisce Karkas al collo, e poi spara un dardo di luce viola (simile a quelli lanciati da Sielfere), il coltello poi per magia esce dal collo del mezz'orco che con un ultimo rantolo guarda il paladino e si accascia a terra. "Bella chiacchiarata, peccato che non uscirai vivo da qui", Equinox sguaina la spada ma l'assassino immediatamente diventa invisbile. Il paladino fende l'aria, cerca di tenere calmi i nervi, ma viene colpito ad una spalla, poi alla gamba "la tua avventura finise qui guerriero del nord, morirai qui al sud!". 
 Equinox lancia un incantesmo di localizzazione ed individua il nemico prova a colpirlo ma lo manca. Il combattimento infuria, gli occhi dell'incappucciato diventano blu e con un gesto delle mani si crea due pugnali d'ombra, ed Equinox viene colpito di nuovo allo sterno, ma approfittando della vicinanza il paladino riesce sferrare un colpo molto potente con la sua nuova spada infusa del potere della sua divinità "Questo è per Karkas vigliacco! Da dove vieni?!
-Il nemico visibilmente ferito indietreggia e nel momvimento gli si scopre un po il volto, ha il capo glabro ed è un elfo dalla pelle bianchissima. "Noi della setta non ci pieghiamo d'innanzi a nessuno, tu sei ancora un pesce troppo piccolo" e con queste parole fa uno scatto verso il cadavere di Karkas gli mozza la testa e sparisce dalla casa lasciando Equinox sanguinante e ferito il quale dopo uno sfogo d'ira raccoglie il suo coraggio e torna alla locanda dai suoi compagni. 
+Il nemico visibilmente ferito indietreggia e nel momvimento gli si scopre un po il volto, ha il capo glabro ed è un elfo dalla pelle bianchissima. "Noi della setta non ci pieghiamo d'innanzi a nessuno, tu sei ancora un pesce troppo piccolo" e con queste parole fa uno scatto verso il cadavere di Karkas gli mozza la testa e sparisce senza lasciare traccia (neanche tracce di sangue dopo essere stato colpito) sparendo dalla casa lasciando Equinox sanguinante e ferito il quale dopo uno sfogo d'ira raccoglie il suo coraggio e torna alla locanda dai suoi compagni. 
+
+<img width="1079" height="869" alt="image" src="https://github.com/user-attachments/assets/4698355a-b032-4e92-abb0-5c5d35d9fb1c" />
+
+Equinox fa ritorno alla locanda dove trova i compagni che lo vedono ferito e molto provato che si accascia su una sedia, ora sono soli nella sala se ne sono andati tutti. "Equinox cosa è successo" urla Enoch, ed anche gli altri si alzano in piedi. Un gesto della mano del paladino li rincuora, e si siede prende una bottiglia trovata lì e la tracanna. 
+Equinox si commuove pensando a Karkas, alla sua situazione, alle informazioni che gli ha dato e dice "questa sera ho perso un caro amico...ma spero di averne trovati altri".
+Enoch prende due bottiglie gliene porge una e versa un goccio a terra e poi esclama "Hai caduti!" 
+Equinox gli racconta di quanto accaduto e dei collegamenti tra le faglie, il sud, la setta ed anche loro lo ragguagliano circa quanto fatto in casa del governatore e quanto scoperto da Maelor.
+Inoltre gli racconta dell'assassino elfo che l'ha affrontato e che ha ucciso Karkas e di come comuque questa figura seppur non sia riuscita ad uccidere anche lui ha ascoltato la loro conversazione e conosce la sua faccia e quindi dovranno prestare ancora più attenzione.
+Enoch poi gli dice "questa setta sembra molto più potente di quanto pensiamo. Ci sono connessioni con il governatore di questa città, con Maelor e perfino con la regina Morghena"
+"Questi intrighi sembrano fatti alle spalle dei sovrani...loro cercano la pace, ma qualcuno trama nell'ombra".
+Equinox poi si alza, mette una mano sul tavolo e dice "Timbald Brambabosco ha fatto emergere delle difficoltà nel modo in cui questa realtà ci appare, tuttavia noi qui ed ora dobbiamo combatterli...." li guarda tutti negli occhi e dice "Noi saremo la SETTA DELL'ALBA NASCENTE".
+Tutti rispondono al suo appello ed appoggiano la mano sul tavolo. 
+
+<img width="1079" height="869" alt="image" src="https://github.com/user-attachments/assets/b00e6caa-cfc9-42af-8341-bf9f4ad01639" />
+
+Prima di andare in camera Enoch però riprende la parola "Non abbiamo finito di parlare, direi che rimandiamo a domani, ma ancora di più adesso il nostro legame deve essere sincero".
 
 
