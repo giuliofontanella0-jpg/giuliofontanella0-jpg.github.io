@@ -13,6 +13,7 @@ Benvenuti nella pagina ufficiale della campagna di **Dungeons & Dragons – Elin
 - **9/16/02/26** - [Sessione 4 e 5 - L'incontro con Brambabosco e l'arrivo a VegliaCastello](sessione-4-5)
 - **9/16/03/26** - [Sessione 6 e 7 - Arrivo a VegliaCastello ed esplorazione della città](sessione-6-7.md)
 - **7/6/05/04/26** - [Sessione 8 e 9 - Furto in casa del governatore e strani incontri da Reminaldo](sessione-8-9.md)
+- **18/05/26** - [Sessione 10 - Addio a VegliaCastello](sessione-10.md)
 
 ## 🧙 Personaggi
 - [Personaggi giocanti e PNG](personaggi.md)
