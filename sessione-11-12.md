@@ -75,6 +75,13 @@ Arrivano dove indicato, vedono Aric Valdor "Ah maledizione è arrivato un altro 
 
 <img width="1379" height="1141" alt="image" src="https://github.com/user-attachments/assets/eea8ec23-530a-4e5b-b7bc-7ebead0b8751" />
 
+Aric Valdor va via, e rimane solo questo...ragazzo, un Tiefling maschio, che all'apparenza un po impacciato prova a mostrare autorità e senza dire una parola, mentre gli altr in silenzio lo guardano, comincia a girare ed osservare. Ma purtroppo nel fare questo, forse troppo concentrato, inciampa sulla sua stessa coda e cade a faccia in terra, facendosi anche male e sporcandosi un po la tunica. 
+Equinox però, vedendo la scena, scende da cavallo e gli porge un braccio per aiutarlo a rialzarsi, "tranquillo ragazzo non badare ai sopprusi" gli dice. 
+Daniel senza rispondere, accetta l'aiuto, si rialza ed evoca uno strano incantesimo, compare un disco magico sul quale lui sale e dice "Seguitemi!". 
+Tutti restano un po spaesati da questa cosa, da questo nuovo soggetto, però lo seguono verso la zona est della città superando un altro cancello ed arrivando nel grande cortile dove si terrà il torneo. 
 
+<img width="1181" height="1331" alt="image" src="https://github.com/user-attachments/assets/abea2b20-857a-4d33-b49b-6fe89413c427" />
 
-
+Quello che vedono è:
+un grande giardino verso sud, la zona centrale con il campo per le giostre dei cavalieri ed un grande tendone per gli spettacoli circensi. Tutto un lato un grande magazzino che funge anche da luogo di risotoro, più sopra un'arena usata per gli spettacoli teatrali. Molta gente che va e viene, scudieri, sguatteri, guardie e cavalieri, mercanti.
+E poi in fondo dietro il grande tendone, dopo l'arena, dietro un'altra cinta di mura, la grande fortezza di Velenor.
