@@ -5,7 +5,7 @@ contro il male che sta dilaniando il nostro mondo, il nostro viaggio sarà lungo
 Scesi a fare colazione vedono un po di agitazione da parte del locandiere e di uno dei garzoni..."ma dov'è finito tuo fratello? in che senso ieri non è tornato a casa?" "non lo so
 mi sto preoccupando....non è da lui". Ma ad ogni modo non ci prestano troppa attenzione, fanno colazione ed escono.
 Arrivano da Ravelion che li saluta e li ringrazia, preparano il carretto caricano quattro grosse botti e due botti più piccole, assicurano due dei loro cavalli e poi l'uomo porge il foglio 
-di via ad Equinox, "con questo spero non avrete problemi ad entrare in città, fate buon viaggio". 
+di via ad Equinox, "con questo spero non avrete problemi ad entrare in città, fate buon viaggio, ricordatevi la consegna va fatta ad Aric Valdor". 
 Enoch e Sielfer conducono il carretto mentre Equinox ed Hilopan montano sui loro cavalli e li seguono ai lati della strada.
 Il loro viaggio verso Velenor ha inizio.
 
@@ -58,8 +58,22 @@ Sielfer poi arrivati abbastanza vicino, da vedere le mura di Velenor manda in av
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d74f15cd-fee2-4800-b80e-031ec44978c5" />
 
+Fuori dal cancello di Velenor vi è una guardia, molti altri carretti stanno entrando, trasportando le più svariate mercanzie per il torneo.... e chissà forse per il matrimonio, il comune denominatore è la meticolosità con cui vengono fatti i controlli.
+Il cielo è grigio e l'aria è pesante ed umida.
+"ALT! Chi siete?"
+"Buongiorno, stiamo trasportando un carico di liquore di Binx per nome di Ravelion Suth di VegliaCastello da consegnare ad Aric Valdor" risponde Equinox mostrando poi il foglio di viaggio.
+"E perchè il signor Suth non è qui di persona?" chiede la guardia "ieri il signor Suth è stato coinvolto in una rissa con dei malfattori ed ha riportato brutte lesioni, noi lo abbiamo soccorso e lui ci ha offerto questo lavoro". 
+"mhhh bhè si i tempi non sono semplici, queste cose capitano.... e voi chi siete" e chiede i nomi di tutti..."che strana compagnia, cosa vi portava giù a VegliaCastello?"
+Prende la parola Enoch "in realtà noi quattro ci siamo trovati per coincidenza in quel momento ad aiutare il povero Ravelion, il quale c'ha offerto un lavoro, all'apparenza semplice....e come lei sa i tempi sono difficili... si fa quel che si può". 
+Chiama un'altra guardia, "aiutami a controllare vieni..." "ora noi diamo uno sguardo"
+Poi però Hilopan parla e dice "bene, potete fare tutti i controlli che volete, non abbiamo niente da nascondere. Immagino voi abbiate capito l'urgenza e l'importanza di questo carico, meglio che non ci sia nessun danno."
+"Mezz'elfo fatti gli affari tuoi, che al lavoro nostro ci pensiamo noi" gli risponde la guardia ed iniziano a fare l'inventario del carico. 
+Si forma calca dietro di loro, "Va bene, andate, attraversate i cancelli, trovate uno spazio, lì troverete Valdor. Ora vi registro, che intenzioni avete per la giornata?"
+"penso andremo ad una locanda a riposare, se può indicarcela" chiede Enoch. E la guardia gli indica due posti, ma in modo molto sommario ed arrozzandoli. 
 
+Arrivano dove indicato, vedono Aric Valdor "Ah maledizione è arrivato un altro carico... dove sei, SGORBIO, com'è che ti chiami tu...Daniel, occupatene tu io ho da fare".
 
+<img width="1379" height="1141" alt="image" src="https://github.com/user-attachments/assets/eea8ec23-530a-4e5b-b7bc-7ebead0b8751" />
 
 
 
