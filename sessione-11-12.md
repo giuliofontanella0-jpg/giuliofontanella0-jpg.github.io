@@ -58,10 +58,6 @@ Sielfer poi arrivati abbastanza vicino, da vedere le mura di Velenor manda in av
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d74f15cd-fee2-4800-b80e-031ec44978c5" />
 
-<video controls width="900">
-  <source src="https://github.com/user-attachments/assets/fdaa0a10-ba3c-4e64-9f41-d6a0545bb8ea" type="video/mp4">
-</video>
-
 
 
 
