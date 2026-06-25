@@ -85,3 +85,8 @@ Tutti restano un po spaesati da questa cosa, da questo nuovo soggetto, però lo 
 Quello che vedono è:
 un grande giardino verso sud, la zona centrale con il campo per le giostre dei cavalieri ed un grande tendone per gli spettacoli circensi. Tutto un lato un grande magazzino che funge anche da luogo di risotoro, più sopra un'arena usata per gli spettacoli teatrali. Molta gente che va e viene, scudieri, sguatteri, guardie e cavalieri, mercanti.
 E poi in fondo dietro il grande tendone, dopo l'arena, dietro un'altra cinta di mura, la grande fortezza di Velenor.
+"Bene, ora potete scaricare qui", Daniel chiama tre guardie e cominciano a scaricare, Equinox e Sielfer però provano ad aiutare "Dove dobbiamo portali soldato?" chiede il paladino.
+"eh no, il vostro lavoro finisce qui, a questo ci pensiamo noi" risponde una delle guardie, visibilemnte scocciata e provata dal peso del carico. 
+"Il nostro compito non è ancora stato portato a termine e dobbiamo essere sicuri che tutto sia in ordine...per essere sicuri di essere pagati", risponde Sielfer con della persuasione
+"Bhè allora se ci tenete, vedete quel magazzino, portate un barile lì". 
+Equinox e Sielfer cominciano a prendere un barile ma nel mentre al mezz'elfo cade l''occhio su una grata delle fognature, ce ne sono varie in città, come aveva anche fatto presente famiglio di Sielfer, ma ora vedendola attentamente capisce che questa almeno è semplicemente ad appoggio, non ha lucchetto, ed è plausibile che sotto vi siano delle fognature. 
