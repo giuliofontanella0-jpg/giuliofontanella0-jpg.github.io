@@ -110,8 +110,27 @@ Enoch invece lasciato solo da Daniel all'improvviso si guarda un po attorno ed a
 "Nono allora, la delegazione del nord deve andare sul lato orientale, quante volte devo ripetervelo... poi abbiamo le scorte di vino che arriveranno direttamente domani, mentre DOVE SONO I BARILI DI QUEL MENDICANTE DI SUTH! DOVEVA ARRIVARE STAMANE!" dice l'uomo... Poi un ragazzino gli va vicino e dice "sua emminenza, Monsignore Valcrest, guardi, in realtà il liquore di binx è appena stato consegnato" ed indica il gruppo e poi Daniel "vede lì c'è Daniel, il tiefling, che li ha portati proprio qui". 
 Infastidito borbotta "Perchè sono stati portati qui quei forestieri.... non potevano scaricare fuori..." e si avvicina. "DANIEL!" urla sua eminenza guardano i quattro cavalli, il carretto e gli stranieri "Daniel, Daniel mio caro ragazzo, era proprio necessario condurre gli stranieri fin qui? non potevano semplicemente scaricare alle guardie fuori?" 
 "Guardi sua eminenza, dicono che il carico è molto importante e volevano sincerarsi che tutto fosse in ordine, abbiamo finito e stavo per scortarli alla locanda dove alloggeranno", risponde il ragazzo.
-"Giovanotto, è bene che tu faccia molta attenzione" con un gesto della manogli annulla il disco facendolo cadere con il sedere per terra e continua "penso che ti sia stato detto molte volte di limitare questi tuoi trucchetti in piena città soprattutto
-
-
+"Giovanotto, è bene che tu faccia molta attenzione" con un gesto della manogli annulla il disco facendolo cadere con il sedere per terra e continua "penso che ti sia stato detto molte volte di limitare questi tuoi trucchetti in piena città soprattutto avanti a gente di fuori... se non vuoi finire di nuovo, dove sai.... ci siamo capiti?"
+"Mi scusi si ho capito non succederà di nuovo"
+Poi sua eminenza guarda tutti e con tono più pacato dice "giovnaotti, grazie per il vostro servigio, prendete le vostre cose ed andate".
+Equinox presta molta attenzione a quest'uomo, e riconosce il suo simbolo religioso, poi aiuta Daniel e gli dice "dai usciamo di qui".
+Daniel li guarda e lasciando trasparire la noia verso tutta questa pesantezza, verso i protocolli di questa città sbuffa ed alza gli occhi al cielo. 
+"Cavolo eh qui è pieno di persone antipatiche" dice Equinox a tutti ma prevalentemente verso Daniel.
 Uscendo dall'area del torneo, Hilopan prende un momento Enoch in disparte e gli dice "Ma che ne pensi se ci iscriviamo ai giochi, io mi trasformo da orso e tu fai il mio ammaestratore?"
 "Mhh sembra molto interessante, pensiamoci" risponde lo stregone
+Poi Daniel camminando avanti a loro si gira e gli dice "Guardate, ora andiamo nella locanda, un luogo abbastanza rumoroso, così possiamo parlare tranquillamente, io personalmente non ho molto da fare, quindi sarei felice di seguirvi oggi se per voi va bene e mostrarvi un po la città.... così evito anche che mi diano altri compiti noiosi".
+Tutti lo ringraziano. 
+Continuano a camminare poi d'un tratto sentono grande clamore, rumore di folla che si accalca, ci sono umani, mezz'orchi, guardie la città è molto variopinta poi arrivano ad una piazza abbastanza larga e vedono passare la carrozza reale, vedono il re, la regina ed il principe. 
+
+<img width="1079" height="723" alt="image" src="https://github.com/user-attachments/assets/03ecf441-5072-4024-b349-ed372fc6818f" />
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/a93d0569-a99f-40bf-a69b-845f70ae2535" />
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/3616e896-4c0c-4643-863d-c74f5c1abe4a" />
+
+Ma i loro occhi si soffermano particolarmente sulla bellezza della regina Morghena
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/3289d438-2fbe-4dc9-a8e3-6edf4c1ecbca" />
+
+Hilopan però ha un sussulto e non in relazione alla sua bellezza, per un attimo si ferma e resta di stucco, ma gli altri non se ne accorgono; allo stesso modo Enoch sforzandosi di non guardare la bellezza della regina nota un piccolo dettaglio, una strana piccola ampolla attaccata ad un braccialetto al polso. 
+Ed infine la carrozza va via la folla la segue e si disperde i personaggi tornano a seguire Daniel, ma sielfer che si trovava dietro tutti urta per sbaglio una persona incappucciata, una ragazza, uno sguardo troppo veloce a quegli occhi "Fai attenzione plebeo", e se ne va.
