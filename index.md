@@ -16,5 +16,5 @@ Benvenuti nella pagina ufficiale della campagna di **Dungeons & Dragons – Elin
 - **18/05/26** - [Sessione 10 - Addio a VegliaCastello](sessione-10.md)
 - **27/23/05/06/26** - [Sessione 11 e 12 - Arrivo a Velenor e primi passi nella capitale](sessione-11-12.md)
 
-## 🧙 Personaggi
+## 🧙 Personaggi 
 - [Personaggi giocanti e PNG](personaggi.md)
