@@ -84,9 +84,34 @@ Tutti restano un po spaesati da questa cosa, da questo nuovo soggetto, però lo 
 
 Quello che vedono è:
 un grande giardino verso sud, la zona centrale con il campo per le giostre dei cavalieri ed un grande tendone per gli spettacoli circensi. Tutto un lato un grande magazzino che funge anche da luogo di risotoro, più sopra un'arena usata per gli spettacoli teatrali. Molta gente che va e viene, scudieri, sguatteri, guardie e cavalieri, mercanti.
+Vedono inoltre passare carri con gabbie con animali selvaggi.
 E poi in fondo dietro il grande tendone, dopo l'arena, dietro un'altra cinta di mura, la grande fortezza di Velenor.
 "Bene, ora potete scaricare qui", Daniel chiama tre guardie e cominciano a scaricare, Equinox e Sielfer però provano ad aiutare "Dove dobbiamo portali soldato?" chiede il paladino.
 "eh no, il vostro lavoro finisce qui, a questo ci pensiamo noi" risponde una delle guardie, visibilemnte scocciata e provata dal peso del carico. 
 "Il nostro compito non è ancora stato portato a termine e dobbiamo essere sicuri che tutto sia in ordine...per essere sicuri di essere pagati", risponde Sielfer con della persuasione
 "Bhè allora se ci tenete, vedete quel magazzino, portate un barile lì". 
 Equinox e Sielfer cominciano a prendere un barile ma nel mentre al mezz'elfo cade l''occhio su una grata delle fognature, ce ne sono varie in città, come aveva anche fatto presente famiglio di Sielfer, ma ora vedendola attentamente capisce che questa almeno è semplicemente ad appoggio, non ha lucchetto, ed è plausibile che sotto vi siano delle fognature. 
+Hilopan ed Enoch mentre vedono i compagni affaticarsi con i barili decidono di spostarsi scendendo dai cavalli e dal carretto per sgranchirsi un po le gambe e guardarsi attorno.
+Enoch si avvicina a Daniel ancora seduto sul suo disco "affascinante tipo di stregoneria, dove l'hai imparata?" con aria un po distratta guardando anche gli altri "ho studiato da autodidatta, sono appassionato di magia", 
+"Quindi non hai mai avuto un maestro?" gli risponde Enoch, "No"
+ed istantaneamente notando che Equinox e Sielfer stanno per entrare nel magazzino per depositare i barili, luogo privato per chi lavora al torneo, si teletrasporta davanti a loro bloccandoli 
+"Per favore, rimanete vicino a me, non allontanatevi, se volete possiamo andare a bere e mangiare qualcosa insieme" gli dice con tutta calma.
+Calma che però non viene recepita dai due che quasi fanno cadere il barile spaventati da questo gesto, "Non ti permettere mai più" gli intima Sielfer, che continua a sorreggere il carico insieme al suo compagno anche infastidito da questo gesto.
+"Scusami... non volevo spaventarvi, però per favore non allontanatevi altrimenti se la prendono con me" risponde Daniel
+"Allora, che fate lo portate o no quel barile" urla una guardia da dentro al magazzino
+"Possiamo andare?" chiede Sielfer "Si però per favore poi tornate qui".
+Entrano nel magazzino per posare il barile ma velocemente li fanno uscire, però vedono tanti barili di birra, ma i loro sono sicuramente i più importanti. Vi sono grandi riserve di cibo, animali, ci sono fuochi d'artificio, rastrelliere per le armi. 
+Uscendo poi Equinox parla con la guardia e gli chiede informazioni sul torneo " mi scusi ma a che ora comincia il torneo e chiunque puo assistere?"
+"Il torneo comincia alle 11 domani, ci sarà anche un gran premio, c'è bisogno di un invito, in città potete registrarvi per partecipare alla locanda nord si prendono i nomi, entro questa sera alle 21, sia potete comprare un biglietto per gli spettacoli" 
+Enoch invece lasciato solo da Daniel all'improvviso si guarda un po attorno ed aguzza le orecchie, finche non trova una persona che attira la sua attenzione, una persona vestita con una lunga toga bianca, pelato, con un grosso stemma a sette punte sul petto ricamato in argento, indicando che lui è un alto cardinale o comunque una persona di spicco della religione. 
+
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/29ffbf17-576d-4819-aa8d-6a6ee7b04759" />
+
+"Nono allora, la delegazione del nord deve andare sul lato orientale, quante volte devo ripetervelo... poi abbiamo le scorte di vino che arriveranno direttamente domani, mentre DOVE SONO I BARILI DI QUEL MENDICANTE DI SUTH! DOVEVA ARRIVARE STAMANE!" dice l'uomo... Poi un ragazzino gli va vicino e dice "sua emminenza, Monsignore Valcrest, guardi, in realtà il liquore di binx è appena stato consegnato" ed indica il gruppo e poi Daniel "vede lì c'è Daniel, il tiefling, che li ha portati proprio qui". 
+Infastidito borbotta "Perchè sono stati portati qui quei forestieri.... non potevano scaricare fuori..." e si avvicina. "DANIEL!" urla sua eminenza guardano i quattro cavalli, il carretto e gli stranieri "Daniel, Daniel mio caro ragazzo, era proprio necessario condurre gli stranieri fin qui? non potevano semplicemente scaricare alle guardie fuori?" 
+"Guardi sua eminenza, dicono che il carico è molto importante e volevano sincerarsi che tutto fosse in ordine, abbiamo finito e stavo per scortarli alla locanda dove alloggeranno", risponde il ragazzo.
+"Giovanotto, è bene che tu faccia molta attenzione" con un gesto della manogli annulla il disco facendolo cadere con il sedere per terra e continua "penso che ti sia stato detto molte volte di limitare questi tuoi trucchetti in piena città soprattutto
+
+
+Uscendo dall'area del torneo, Hilopan prende un momento Enoch in disparte e gli dice "Ma che ne pensi se ci iscriviamo ai giochi, io mi trasformo da orso e tu fai il mio ammaestratore?"
+"Mhh sembra molto interessante, pensiamoci" risponde lo stregone
