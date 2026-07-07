@@ -52,9 +52,29 @@ E 10 MELE".
 Poi vedono la grande locanda del "Il Boccale Ricolmo", diverse bancarelle venditore di pane e dolci, uno che vende da bere con tavoli all'aperto, un venditore di piante, chi vende carne, frutta ed uova.
 Anche il mercato è ordinato, non c'è ressa alle bancarelle, vedono che ci sono comunque molte guardie in giro.
 
-
-
-
 <img width="1078" height="853" alt="image" src="https://github.com/user-attachments/assets/a7ebb79b-e497-439b-944d-288f73846e27" />
 
-
+Stanno per entrare nella locanda, Hilopan è l'ultimo sta salendo le scale che portano dentro quando d'un tratto si ferma di colpo, si abbassa, sembra parlare con qualcuno poi raccoglie qualcosa.
+Però nessuno vede con chi abbia interaggito Hilopan, eppure erano molto vicini, il primo a reagire è proprio Equinox, quello forse più vicino al druido che forte del loro rapporto lo strattona per il collo
+della veste e gli dice "ORSO MA COSA CAZZO HAI APPENA FATTO?!" 
+Ma il druido con molto stupore e confusione risponde "Eh,cosa vuoi? Levami le mani di dosso" e si libera dal paladino, che notando anche il via vai di persone che stanno entrando e per non dare troppo nell'occhio
+allenta la presa ed entra nella locanda tirando dritto, lasciando Hilopan di stucco.
+Poi però interviene Enoch "Hilopan, va tutto bene?" un po spazientito gli risponde "ma cosa vuoi Enoch? Cosa ho fatto?", però lo stregone senza esporsi, solo con uno sguardo di sospetto gli dice
+"mhh, entriamo dai", ed entrano tutti dentro.
+C'è molta gente, nani, dragonidi, umani molti, mezz'orchi, gente venuta da fuori (probabilmente per il torneo), non ci sono elfi.
+Daniel appare visibilmente più tranquillo saluta qualche garzone, chiama il locandiere per prendere un tavolo dove poi si accomadano ed ordinano da mangiare e da bere. 
+Una volta seduti, Hilopan ancora inquiteo li guarda e dice " Ma cosa cazzo volete da me?!" 
+Enoch fa un po spallucce e si rifugia nello sguardo di Equinox, ma Hilopan lo vede e lo fredda dicendogli "Enoch, guardami negli occhi, cosa vuoi da me?!" 
+"Hilopan, scusami, restiamo calmi, ti ho chiesto come stessi perchè ti ho visto.....strano fuori per un momento" 
+"Ma perchè mi state tutti chiedendo se sto bene? E perchè tu (indicando Equinox) mi hai preso per il collo?" 
+Ed Equinox che ormai non può più evitare la conversazione risponde "Daniel grazie della tua ospitalità, se possibile io ti chiederei di prendermi la più buona bevanda analcolica che hanno...ora scusatemi ma 
+Hilopan può seguirmi un secondo?" 
+Ed i due si alzano un secondo allontanandosi dal tavolo raggiungendo un angolino più isolato e parlando in elfico gli dice:
+"Hilopan ti ricordi quando eravamo nel bosco del Canto Antico, ti ricordi cosa è successo quando abbiamo tutti visto una persona diversa in quel cadavere? Io prima ti ho visto interaggire con qualcuno, ma non 
+c'era nessuno lì, eri solo. Come ti senti?"
+Hilopan dopo queste affermazioni resta totalmente spiazzato, fa un passo indietro e comincia a dubitare di quello che gli è realmente successo, però lui si era sentito rincuorato da quel breve evento, quindi
+risponde sempre in elfico "ma perchè tu il bambino vestito da piccolo druido non l'hai visto?"
+Ma Equinox prontamente gli dice "NO! Amico mio restiamo in guardia soprattuto tu, perchè mi fido molto del tuo istinto magico". Alchè Hilopan gli dice "Io credo che la regina sia colei che l'elementale mi ha 
+mostrato nella visione"
+Al tavolo Daniel dopo aver ordinato e scherzato con il locandiere dice agli altri "bene bene, allora presentiamoci come si deve io sono (facendo le virgolette) Sir Daniell e vivo quida un po ormai"
+Enoch si ripresenta e Silfer anche gli dice il suo nome.
