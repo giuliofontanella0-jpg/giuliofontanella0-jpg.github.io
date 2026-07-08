@@ -75,6 +75,27 @@ c'era nessuno lì, eri solo. Come ti senti?"
 Hilopan dopo queste affermazioni resta totalmente spiazzato, fa un passo indietro e comincia a dubitare di quello che gli è realmente successo, però lui si era sentito rincuorato da quel breve evento, quindi
 risponde sempre in elfico "ma perchè tu il bambino vestito da piccolo druido non l'hai visto?"
 Ma Equinox prontamente gli dice "NO! Amico mio restiamo in guardia soprattuto tu, perchè mi fido molto del tuo istinto magico". Alchè Hilopan gli dice "Io credo che la regina sia colei che l'elementale mi ha 
-mostrato nella visione"
+mostrato nella visione"...Equinox a questa affermazione si guarda attorno, ed in comune gli dice, "Dai torniamo dagli altri....restiamo all'erta, gli altri devono essere informati, ma non avanti al ragazzo nuovo.
+Qualsiasi cosa conta sempre su di me".
+"Grazie Equinox, andrà a finire che prima o poi ci pugnaleremo tra noi. Dobbiamo rimanere uniti!"
+"Stai tranquillo, i tuoi occhi mi dicono che stai bene, il tuo cuore è saldo! Andiamo, manteniamo la calma."
 Al tavolo Daniel dopo aver ordinato e scherzato con il locandiere dice agli altri "bene bene, allora presentiamoci come si deve io sono (facendo le virgolette) Sir Daniell e vivo quida un po ormai"
 Enoch si ripresenta e Silfer anche gli dice il suo nome.
+"Ma quindi in questa città è consentito usare liberamente la magia?" chiede Sielfer "No in realtà è molto sconsigliato farlo....ma io in qualche modo devo fare pratica" risponde Daniel.
+"Sei percaso un apprendista?" "Più che apprendista uno studioso", e con un leggerissimo gesto delle dita accende una candela presente sul tavolo.
+Interviene anche Enoch "Mi sembri navigato per una persona che non ha avuto una guida." 
+"Ti ringrazio, ma purtroppo qui riesco solo a fare esercizi teorici, tutto limitato a ciò che trovo sui libri.... sonno sicuro che potrei apprendere di più al di fuori di qui, se potessi vedere con i miei occhi
+quel che succede all'esterno".
+Sielfer però, mostrando un po di sfiducia (tramite lo sguardo) nei confronti del tiefling genera una leggera brezza che gli spegne la candela... Ma ancora prima che i due dicano qualcosa Enoch con molta calma
+prende dei fiammiferi con i quali solitamente si accende il tabacco ne usa uno e riaccende la candela, poi si rivolge nuovamente a Daniel "Ebbene 'SIR', ma come mai uno con le tue capacità si ritrova a fare da
+balia ad un gruppo di viandanti come noi?"
+"Ehhh.... in realtà da un po questa città comincia a starmi un po stretta... sono alla ricerca di nuovi stimoli....Anche perchè qui dentro non è mi veramente concesso esprimermi come vorrei, prevalenentemente io mi trattengo molto" gli risponde.
+"Anche io sono molto affascinato dalla magia e in qualche modo mi ritengo un suo studioso, sarei molto contento se potessimo scambiarci le nostre conoscenze."
+"Sarei felice anche io di parlare con tutti voi (e li guarda tutti, anche Equinox ed Hilopan appena tornati), ma per farlo bisognerebbe essere onesti, e non credo voi lo siate stati appieno, dubito che un gruppo di persone come voi sia qui solo per una consegna". 
+Però a tutto ciò Silfer probabilmente divertito dal nuovo arrivato, scola il suo liquore forte, sbatte le mani sul tavolo (attirando per un secondo gli occhi sul gruppo) e dice riferito a Daniel "Eh si c'è proprio da vedere che magia fa quest altro!" si alza e se ne va verso il bagno.
+Prima che però l'elfo si allontani, quando Equinox si era ormai seduto comodo stava iniziando a bere, ascoltava divertito i discorsi un po paternali tra Enoch e Daniel, Hilopan ancora assorto dai suoi pensieri, ancora non contento del trattamento subito di colpo dice "TU COSA VEDI?", riferito a tutti e cacciando dalla tasca un fiorellino di camomilla, che tutti vedono.
+Daniel gli risponde "Ma questo è quello che ti è stato dato prima e che ti sei chinato a raccogliere prima di entrare?" 
+"Come scusa?"
+Il gruppo ora è confuso.
+
+<img width="1079" height="723" alt="image" src="https://github.com/user-attachments/assets/32b0bdde-b794-4516-b26a-8498eeeb19ec" />
