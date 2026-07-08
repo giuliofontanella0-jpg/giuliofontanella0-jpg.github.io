@@ -15,6 +15,7 @@ Benvenuti nella pagina ufficiale della campagna di **Dungeons & Dragons – Elin
 - **7/6/05/04/26** - [Sessione 8 e 9 - Furto in casa del governatore e strani incontri da Reminaldo](sessione-8-9.md)
 - **18/05/26** - [Sessione 10 - Addio a VegliaCastello](sessione-10.md)
 - **27/23/05/06/26** - [Sessione 11 e 12 - Arrivo a Velenor e primi passi nella capitale](sessione-11-12.md)
+- **30/06/2026** - [sessione 13 - Un fiorellino di camomilla per Hilopan](sessione-13.md)
 
 ## 🧙 Personaggi 
 - [Personaggi giocanti e PNG](personaggi.md)
