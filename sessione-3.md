@@ -19,13 +19,11 @@ Il giorno dopo arrivano all’inizio del Bosco del Canto Antico e devono attrave
 L’aria nel bosco è pesante, è facile perdere la via, una strana nebbia aleggia da sotto i cespugli, le chiome degli alberi sono molto fitte, poca è la luce che riesce a filtrare. Ma più inquietante è il silenzio assordante del bosco, non vi sono animali.
 I personaggi provano a captare le forze presenti in questo antico bosco, da Equinox ad Enoch, ma anche lo stesso Sielfer, non capiscono cosa hanno avanti, ma ognuno di loro percepisce la traccia di qualcosa di antico, di molto potente, ma non di malvagio.
 Lo attraversano guardinghi, evitando di scontrarsi con il ragno nel sentiero sbagliato, poi al bivio finale imboccano il sentiero sbagliato e trovano una radura con un uovo misterioso.
-Sempre con circospezione si avvicinano all’uovo, che emana un leggero odore di zolfo ed una magica luminescenza, ma non lo toccano. Mentre discutono del come e del perché, sempre nell’assoluto silenzio,  finché una forte risata ricopre tutta l’aria 
-“HIHIHIHI” , Sielfer vede una strana sagoma apparire dai cespugli di fronte a lui. 
+Sempre con circospezione si avvicinano all’uovo, che emana un leggero odore di zolfo ed una magica luminescenza, ma non lo toccano. Mentre discutono del come e del perché, sempre nell’assoluto silenzio,  finché una forte risata ricopre tutta l’aria “HIHIHIHI” , Sielfer vede una strana sagoma apparire dai cespugli di fronte a lui.
 <img width="1074" height="607" alt="image" src="https://github.com/user-attachments/assets/287ad9f8-49de-42f9-85f9-c064e9b8059a" />
 
 “Chi sei, fatti vedere?” Si avvicinano anche gli altri
 “È UNA VITA CHE IO VI OSSERVO….HIHIHIHI”
 Sielfer ed Hilopan si avvicinano alla sagoma che però non è più lì, ed istantaneamente quando arrivano nel punto dove credevano fosse quella “cosa”, da qualche albero sopra le loro teste precipita un cadavere. 
-Enoch ed Equinox sono rimasti indietro, hanno sentito il tonfo ma non riescono a vedere di cosa si tratta, Sielfer ed Hilopan coprono la visuale. I due si guardano, poi Sielfer osserva il cadavere, ghigno beffardo si accovaccia mani avanti pronto a toccare quel corpo senza vita quando d’istinto Hilopan lo spinge con forza
-“SE LO TOCCHI TI TAGLIO LA GOLA!” 
+Enoch ed Equinox sono rimasti indietro, hanno sentito il tonfo ma non riescono a vedere di cosa si tratta, Sielfer ed Hilopan coprono la visuale. I due si guardano, poi Sielfer osserva il cadavere, ghigno beffardo si accovaccia mani avanti pronto a toccare quel corpo senza vita quando d’istinto Hilopan lo spinge con forza “SE LO TOCCHI TI TAGLIO LA GOLA!”
 Ora anche gli altri due vedono il cadavere a terra, senza distinguerne le forme e vedono la scena.

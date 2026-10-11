@@ -17,7 +17,7 @@ classe: home
     <p class="etichetta">Ultima sessione</p>
     <h2 id="ultima-titolo"><a href="{{ ultima.url | relative_url }}">{{ ultima.titolo }}</a></h2>
     {% if ultima.data and ultima.data != "" %}<p class="data">{{ ultima.data }}</p>{% endif %}
-    <p class="estratto">{{ ultima.content | strip_html | strip_newlines | truncatewords: 48, "…" }}</p>
+    <p class="estratto">{{ ultima.content | newline_to_br | replace: "<br />", " " | strip_html | truncatewords: 48, "…" }}</p>
     <a class="leggi" href="{{ ultima.url | relative_url }}">Leggi la sessione {{ ultima.numero }}</a>
   </section>
   {% endif %}

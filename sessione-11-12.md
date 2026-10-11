@@ -6,33 +6,23 @@ titolo: "Arrivo a Velenor e primi passi nella capitale"
 data: "27/05 e 23/06/2026"
 ---
 
-Dopo la notte, Enoch si sveglia un po' assente e non risponde ai compagni già svegli ed attivi nel prepararsi per scendere a fare una colazione veloce e poi raggiungere il
-negozio di Ravelion Suth per preparare il carico e partire verso Velenor.
-Prima di uscire Equinox li chiama a raccolta "Compagni, ieri abbiamo stretto un patto, di amicizia, come ha detto Hilopan solo insieme possiamo pensare di avere una speranza 
-contro il male che sta dilaniando il nostro mondo, il nostro viaggio sarà lungo ed insidie si presenteranno a noi, lasciate che la benedizione della mia divinità vi protegga".
-Scesi a fare colazione vedono un po' di agitazione da parte del locandiere e di uno dei garzoni..."ma dov'è finito tuo fratello? in che senso ieri non è tornato a casa?" "non lo so
-mi sto preoccupando....non è da lui". Ma ad ogni modo non ci prestano troppa attenzione, fanno colazione ed escono.
-Arrivano da Ravelion che li saluta e li ringrazia, preparano il carretto caricano quattro grosse botti e due botti più piccole, assicurano due dei loro cavalli e poi l'uomo porge il foglio 
-di via ad Equinox, "con questo spero non avrete problemi ad entrare in città, fate buon viaggio, ricordatevi la consegna va fatta ad Aric Valdor". 
+Dopo la notte, Enoch si sveglia un po' assente e non risponde ai compagni già svegli ed attivi nel prepararsi per scendere a fare una colazione veloce e poi raggiungere il negozio di Ravelion Suth per preparare il carico e partire verso Velenor.
+Prima di uscire Equinox li chiama a raccolta "Compagni, ieri abbiamo stretto un patto, di amicizia, come ha detto Hilopan solo insieme possiamo pensare di avere una speranza contro il male che sta dilaniando il nostro mondo, il nostro viaggio sarà lungo ed insidie si presenteranno a noi, lasciate che la benedizione della mia divinità vi protegga".
+Scesi a fare colazione vedono un po' di agitazione da parte del locandiere e di uno dei garzoni..."ma dov'è finito tuo fratello? in che senso ieri non è tornato a casa?" "non lo so mi sto preoccupando....non è da lui". Ma ad ogni modo non ci prestano troppa attenzione, fanno colazione ed escono.
+Arrivano da Ravelion che li saluta e li ringrazia, preparano il carretto caricano quattro grosse botti e due botti più piccole, assicurano due dei loro cavalli e poi l'uomo porge il foglio di via ad Equinox, "con questo spero non avrete problemi ad entrare in città, fate buon viaggio, ricordatevi la consegna va fatta ad Aric Valdor".
 Enoch e Sielfer conducono il carretto mentre Equinox ed Hilopan montano sui loro cavalli e li seguono ai lati della strada.
 Il loro viaggio verso Velenor ha inizio.
 
 <img width="1079" height="720" alt="image" src="https://github.com/user-attachments/assets/3b39412d-571b-4117-ae9c-d8ec3dc9d79f" />
 
-Usciti da VegliaCastello Hilopan lancia un incantesimo di furtività e Sielfer evoca il suo famiglio, tramite un piccolo portale dimensionale nero appare un corvo e gli dice di sorvegliare
-il loro cammino dall'alto. Questa cosa attira l'attenzione dei suoi compagni "Sielfer, cos'è la magia hai appena usato?" chiede Equinox "oh beh, questo è il mio famiglio, Mijenta".
-Equinox, sentendo la parola famiglio scava un po' nella sua memoria, ma non coglie niente di significativo se non qualche conoscenza circa le magie di evocazione, Enoch riconosce la magia 
-specifica e resta un po' sorpreso delle abilità del compagno che tuttavia non associa alla magia della natura che lui conosce, mentre Hilopan invece associa questa evocazione animale come "innaturale"
+Usciti da VegliaCastello Hilopan lancia un incantesimo di furtività e Sielfer evoca il suo famiglio, tramite un piccolo portale dimensionale nero appare un corvo e gli dice di sorvegliare il loro cammino dall'alto. Questa cosa attira l'attenzione dei suoi compagni "Sielfer, cos'è la magia hai appena usato?" chiede Equinox "oh beh, questo è il mio famiglio, Mijenta".
+Equinox, sentendo la parola famiglio scava un po' nella sua memoria, ma non coglie niente di significativo se non qualche conoscenza circa le magie di evocazione, Enoch riconosce la magia specifica e resta un po' sorpreso delle abilità del compagno che tuttavia non associa alla magia della natura che lui conosce, mentre Hilopan invece associa questa evocazione animale come "innaturale"
 e la considera magia sinistra.
-Dopo un po' di cammino il sentiero che conduce a Velenor è tranquillo, del resto è la strada che porta alla capitale. Loro si tranquillizzano e cominciano a chiacchierare, Sielfer prende la parola
-e comincia a raccontare ad Equinox quanto successo ieri sera "Vedi, ieri io ed Enoch ci siamo intrufolati in casa del governatore in quanto avevamo stretto un accordo con Reminaldo, noi avremmo recuperato
-quella pergamena che abbiamo dato allo spettro e lui ci avrebbe dato gli inchiostri che ci servivano. In quella casa però abbiamo trovato cose particolari, tra cui la mappa delle precedenti faglie (resoconto
-sessione 8-9)."
+Dopo un po' di cammino il sentiero che conduce a Velenor è tranquillo, del resto è la strada che porta alla capitale. Loro si tranquillizzano e cominciano a chiacchierare, Sielfer prende la parola e comincia a raccontare ad Equinox quanto successo ieri sera "Vedi, ieri io ed Enoch ci siamo intrufolati in casa del governatore in quanto avevamo stretto un accordo con Reminaldo, noi avremmo recuperato quella pergamena che abbiamo dato allo spettro e lui ci avrebbe dato gli inchiostri che ci servivano. In quella casa però abbiamo trovato cose particolari, tra cui la mappa delle precedenti faglie (resoconto sessione 8-9)."
 
 <img width="1024" height="1024" alt="Faglie" src="https://github.com/user-attachments/assets/b920696c-55d1-473e-9686-a5fe5fca43cf" />
 
-Sielfer continua, "le faglie sono datate, qualcuno è avanti con le ricerche, inoltre a PietraFonda dove ci siamo incontrati, c'era una seconda faglia, poi tutte le altre, ma la cosa più strana è un cerchio
-rosso in una zona a sud est... vicino la zona delle paludi."
+Sielfer continua, "le faglie sono datate, qualcuno è avanti con le ricerche, inoltre a PietraFonda dove ci siamo incontrati, c'era una seconda faglia, poi tutte le altre, ma la cosa più strana è un cerchio rosso in una zona a sud est... vicino la zona delle paludi."
 "Sembra che stiano salendo..." dice Equinox, "Non conosco bene la zona del segno rosso, lì ci sono le paludi".
 Prende poi la parola Enoch "abbiamo anche trovato una lettera di Maelor indirizzata al governatore che collega Maelor, il governatore di VegliaCastello, la setta dell'Ombra Crepuscolare e perfino la regina Morghena, sembra stiano complottando insieme"
 ed Hilopan prende la parola "anche io ho visto, tramite Pocho, Maelor complottare con una strana persona incappucciata proprio ieri in città"
@@ -49,9 +39,7 @@ E loro cominciano a collegare la zona paludosa vicino alla quale nella mappa tro
 (Sia Hilopan che Equinox conoscono gli elfi solari, per Hilopan sono come lontani cugini, per Equinox sono la base da cui nasce il culto della divinità Luce).
 Cala il silenzio, ma poi Sielfer comincia a parlare:
 "Sono come voi ma anche molto diverso, io sono Sielfer, elfo drow, provengo dalle terre ad ovest di Elindor, oltre il mare, in questo momento ho 150 anni, secondo il conteggio comune, gran parte della mia vita l'ho passata schiavizzato dalla mia stessa gente e torturato, ho vissuto nell'odio facendo cose di cui mi pento. Poi recentemente ho deciso di scappare, sono stato per mare per molto tempo per poi approdare a PietraFonda inconsapevole delle vicissitudini di Elindor, ed ho incontrato voi e la nostra prima faglia. Voi mi chiedete perché io mi stia muovendo verso sud, ed è lecito, anche se io non mi azzardo a chiederlo a voi, sono in cerca di mia sorella, è stata venduta ad uno schiavista tempo fa e da allora la cerco".
-"Avrai tutto il mio aiuto in questa nobile causa", dice Equinox con la mano sul petto in segno di rispetto e commozione
-"Ti ringrazio, ma nella mia vita ho capito una cosa, chi non è capace a badare a se stesso merita di finire male, quindi io non ho bisogno del vostro aiuto...ma ti ringrazio di cuore e sono felice di averti come amico" risponde Sielfer "ora cambiando discorso vorrei tradurvi la pergamena che abbiamo trovato in casa del governatore e che poi abbiamo dato allo spettro: (sessione 8-9)
-“Le acque sotto la pietra non sono morte.
+"Avrai tutto il mio aiuto in questa nobile causa", dice Equinox con la mano sul petto in segno di rispetto e commozione "Ti ringrazio, ma nella mia vita ho capito una cosa, chi non è capace a badare a se stesso merita di finire male, quindi io non ho bisogno del vostro aiuto...ma ti ringrazio di cuore e sono felice di averti come amico" risponde Sielfer "ora cambiando discorso vorrei tradurvi la pergamena che abbiamo trovato in casa del governatore e che poi abbiamo dato allo spettro: (sessione 8-9) “Le acque sotto la pietra non sono morte.
 Esse ricordano il nome che fu dimenticato.”
 “Il Custode Dormiente non sogna ma attende il suo padrone”
 Quando le aperture saranno allineate,
@@ -96,18 +84,13 @@ Vedono inoltre passare carri con gabbie con animali selvaggi.
 E poi in fondo dietro il grande tendone, dopo l'arena, dietro un'altra cinta di mura, la grande fortezza di Velenor.
 "Bene, ora potete scaricare qui", Daniel chiama tre guardie e cominciano a scaricare, Equinox e Sielfer però provano ad aiutare "Dove dobbiamo portarli soldato?" chiede il paladino.
 "eh no, il vostro lavoro finisce qui, a questo ci pensiamo noi" risponde una delle guardie, visibilmente scocciata e provata dal peso del carico. 
-"Il nostro compito non è ancora stato portato a termine e dobbiamo essere sicuri che tutto sia in ordine...per essere sicuri di essere pagati", risponde Sielfer con della persuasione
-"Beh allora se ci tenete, vedete quel magazzino, portate un barile lì". 
+"Il nostro compito non è ancora stato portato a termine e dobbiamo essere sicuri che tutto sia in ordine...per essere sicuri di essere pagati", risponde Sielfer con della persuasione "Beh allora se ci tenete, vedete quel magazzino, portate un barile lì".
 Equinox e Sielfer cominciano a prendere un barile ma nel mentre al mezz'elfo cade l'occhio su una grata delle fognature, ce ne sono varie in città, come aveva anche fatto presente il famiglio di Sielfer, ma ora vedendola attentamente capisce che questa almeno è semplicemente ad appoggio, non ha lucchetto, ed è plausibile che sotto vi siano delle fognature. 
 Hilopan ed Enoch mentre vedono i compagni affaticarsi con i barili decidono di spostarsi scendendo dai cavalli e dal carretto per sgranchirsi un po' le gambe e guardarsi attorno.
-Enoch si avvicina a Daniel ancora seduto sul suo disco "affascinante tipo di stregoneria, dove l'hai imparata?" con aria un po' distratta guardando anche gli altri "ho studiato da autodidatta, sono appassionato di magia", 
-"Quindi non hai mai avuto un maestro?" gli risponde Enoch, "No"
-ed istantaneamente notando che Equinox e Sielfer stanno per entrare nel magazzino per depositare i barili, luogo privato per chi lavora al torneo, si teletrasporta davanti a loro bloccandoli 
-"Per favore, rimanete vicino a me, non allontanatevi, se volete possiamo andare a bere e mangiare qualcosa insieme" gli dice con tutta calma.
+Enoch si avvicina a Daniel ancora seduto sul suo disco "affascinante tipo di stregoneria, dove l'hai imparata?" con aria un po' distratta guardando anche gli altri "ho studiato da autodidatta, sono appassionato di magia", "Quindi non hai mai avuto un maestro?" gli risponde Enoch, "No"
+ed istantaneamente notando che Equinox e Sielfer stanno per entrare nel magazzino per depositare i barili, luogo privato per chi lavora al torneo, si teletrasporta davanti a loro bloccandoli "Per favore, rimanete vicino a me, non allontanatevi, se volete possiamo andare a bere e mangiare qualcosa insieme" gli dice con tutta calma.
 Calma che però non viene recepita dai due che quasi fanno cadere il barile spaventati da questo gesto, "Non ti permettere mai più" gli intima Sielfer, che continua a sorreggere il carico insieme al suo compagno anche infastidito da questo gesto.
-"Scusami... non volevo spaventarvi, però per favore non allontanatevi altrimenti se la prendono con me" risponde Daniel
-"Allora, che fate lo portate o no quel barile" urla una guardia da dentro al magazzino
-"Possiamo andare?" chiede Sielfer "Sì, però per favore poi tornate qui".
+"Scusami... non volevo spaventarvi, però per favore non allontanatevi altrimenti se la prendono con me" risponde Daniel "Allora, che fate lo portate o no quel barile" urla una guardia da dentro al magazzino "Possiamo andare?" chiede Sielfer "Sì, però per favore poi tornate qui".
 Entrano nel magazzino per posare il barile ma velocemente li fanno uscire, però vedono tanti barili di birra, ma i loro sono sicuramente i più importanti. Vi sono grandi riserve di cibo, animali, ci sono fuochi d'artificio, rastrelliere per le armi. 
 Uscendo poi Equinox parla con la guardia e gli chiede informazioni sul torneo " mi scusi ma a che ora comincia il torneo e chiunque può assistere?"
 "Il torneo comincia alle 11 domani, ci sarà anche un gran premio, c'è bisogno di un invito, in città potete registrarvi per partecipare alla locanda nord si prendono i nomi, entro questa sera alle 19, sia potete comprare un biglietto per gli spettacoli" 
