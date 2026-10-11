@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "3"
+ordine: 3
+titolo: "Avventura nei boschi del Canto Antico"
+data: "23/01/2026"
+---
+
 La strada verso VegliaCastello vi attende.
 I quattro si incontrano per la colazione offerta dall’oste della taverna si presentano formalmente ed insieme decidono di procedere verso sud. Equinox e Sielfer escono per andare a cercare dei cavalli mentre Enoch ed Hilopan rimangono a discutere nella taverna.
  I primi si dirigono verso la caserma su consiglio del locandiere e notano come la città sia già attiva nei lavori di ricostruzione, tutti aiutano anche i pochi soldati presenti. Arrivano alla caserma parlano con due guardie che li riconoscono come i forestieri che hanno aiutato durante l’assalto dei mostri nella notte e li portano dal loro capitano. Alla richiesta dei cavalli per andare a sud questi cambia volto nei loro confronti ma poi sentendo delle loro imprese un po' con vergogna abbassa lo sguardo e gli propone di acquistare 3 cavalli un po' avanti con l’età ma ancora validi, per 50 monete d’oro. Equinox ringrazia e gliene dà 60.

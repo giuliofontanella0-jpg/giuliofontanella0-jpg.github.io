@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "11 e 12"
+ordine: 11
+titolo: "Arrivo a Velenor e primi passi nella capitale"
+data: "27/05 e 23/06/2026"
+---
+
 Dopo la notte, Enoch si sveglia un po' assente e non risponde ai compagni già svegli ed attivi nel prepararsi per scendere a fare una colazione veloce e poi raggiungere il
 negozio di Ravelion Suth per preparare il carico e partire verso Velenor.
 Prima di uscire Equinox li chiama a raccolta "Compagni, ieri abbiamo stretto un patto, di amicizia, come ha detto Hilopan solo insieme possiamo pensare di avere una speranza 

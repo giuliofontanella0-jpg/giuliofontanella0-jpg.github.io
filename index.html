@@ -1,0 +1,46 @@
+---
+layout: default
+classe: home
+---
+{% assign sessioni = site.pages | where: "layout", "sessione" | sort: "ordine" %}
+{% assign ultima = sessioni | last %}
+
+<section class="apertura">
+  <h1>Cronache di Elindor</h1>
+  <svg class="faglia" viewBox="0 0 1000 40" aria-hidden="true" preserveAspectRatio="none"><path d="M0 20 L180 20 L205 9 L236 31 L262 14 L298 27 L330 6 L362 34 L394 16 L430 25 L462 11 L496 29 L528 18 L560 20 L1000 20"/></svg>
+  <p>Il racconto della campagna di Dungeons &amp; Dragons, sessione dopo sessione: dalla prima Faglia di PietraFonda fino alle strade di Velenor.</p>
+</section>
+
+<div class="blocchi">
+  {% if ultima %}
+  <section class="ultima" aria-labelledby="ultima-titolo">
+    <p class="etichetta">Ultima sessione</p>
+    <h2 id="ultima-titolo"><a href="{{ ultima.url | relative_url }}">{{ ultima.titolo }}</a></h2>
+    {% if ultima.data and ultima.data != "" %}<p class="data">{{ ultima.data }}</p>{% endif %}
+    <p class="estratto">{{ ultima.content | strip_html | strip_newlines | truncatewords: 48, "…" }}</p>
+    <a class="leggi" href="{{ ultima.url | relative_url }}">Leggi la sessione {{ ultima.numero }}</a>
+  </section>
+  {% endif %}
+
+  <a class="mappa-invito" href="{{ '/mappa.html' | relative_url }}">
+    <p class="etichetta">Mappa</p>
+    <h2>Il continente di Elindor</h2>
+    <p>Città, boschi e luoghi attraversati dal gruppo, sulla mappa interattiva.</p>
+    <span class="vai">Apri la mappa</span>
+  </a>
+</div>
+
+<section class="cronaca" id="cronaca" aria-labelledby="cronaca-titolo">
+  <h2 id="cronaca-titolo">Tutte le sessioni</h2>
+  <ol>
+    {% for s in sessioni %}
+    <li>
+      <a href="{{ s.url | relative_url }}">
+        <span class="num">Sessione {{ s.numero }}</span>
+        <span class="tit">{{ s.titolo }}</span>
+        {% if s.data and s.data != "" %}<span class="quando">{{ s.data }}</span>{% endif %}
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>

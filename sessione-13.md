@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "13"
+ordine: 13
+titolo: "Un fiorellino di camomilla per Hilopan"
+data: "30/06/2026"
+---
+
 La carrozza passa e la folla si disperde, i cinque personaggi continuano il loro cammino.
 Vedono diversi negozi interessanti:
 - Cartografo -> Oltre la Costa 

@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "8 e 9"
+ordine: 8
+titolo: "Furto in casa del governatore e strani incontri da Reminaldo"
+data: "7/6/05/04/26"
+---
+
 Sielfer ed Enoch trovano la casa del governatore Spandann sorvegliata da due guardie all'ingresso. La casa è molto grande, due piani, in una zona visivamente buona della città, con un piccolo parco pubblico dietro 
 vicino al fiume. 
 <img width="1047" height="773" alt="image" src="https://github.com/user-attachments/assets/1bb348b1-5aa8-4557-9a23-f4ae9c2002dc" />

@@ -1,0 +1,35 @@
+---
+layout: default
+classe: pagina-sessione
+---
+{% assign sessioni = site.pages | where: "layout", "sessione" | sort: "ordine" %}
+{% for s in sessioni %}
+  {% if s.url == page.url %}
+    {% assign i_prec = forloop.index0 | minus: 1 %}
+    {% assign i_succ = forloop.index0 | plus: 1 %}
+  {% endif %}
+{% endfor %}
+{% if i_prec >= 0 %}{% assign precedente = sessioni[i_prec] %}{% endif %}
+{% assign succ = sessioni[i_succ] %}
+
+<article class="racconto">
+  <header class="racconto-testa">
+    <p class="racconto-numero">Sessione {{ page.numero }}</p>
+    <h1>{{ page.titolo }}</h1>
+    {% if page.data and page.data != "" %}<p class="racconto-data">{{ page.data }}</p>{% endif %}
+    <svg class="faglia faglia-piccola" viewBox="0 0 600 24" aria-hidden="true" preserveAspectRatio="none"><path d="M0 12 L120 12 L140 6 L170 18 L200 9 L232 15 L262 4 L290 20 L318 10 L348 14 L380 12 L600 12"/></svg>
+  </header>
+
+  <div class="racconto-testo">
+    {{ content }}
+  </div>
+
+  <nav class="racconto-nav" aria-label="Altre sessioni">
+    {% if precedente %}
+      <a class="prec" href="{{ precedente.url | relative_url }}"><span>Sessione precedente</span>{{ precedente.titolo }}</a>
+    {% else %}<span></span>{% endif %}
+    {% if succ %}
+      <a class="succ" href="{{ succ.url | relative_url }}"><span>Sessione successiva</span>{{ succ.titolo }}</a>
+    {% endif %}
+  </nav>
+</article>

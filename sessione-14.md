@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "14"
+ordine: 14
+titolo: "Accese discussioni in locanda"
+data: ""
+---
+
 Il gruppo è dentro la locanda del Boccale Ricolmo, saranno circa le 14:15, c'è molta gente comunque.
 Tutti possono immaginare che il motivo è il torneo, in quanto, come loro sapevano, le iscrizioni si aprono alle 15 ed un notaio
 prenderà i nomi proprio in quella locanda, e questo non sarà un classico torneo ma ci saranno più giochi con regole ben precise:

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'it' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.titolo %}{{ page.titolo }} · {% elsif page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/elindor.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M17 2 13 11l5 4-6 8 3 7' fill='none' stroke='%233f6e8c' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body class="{{ page.classe | default: 'pagina' }}">
+  <a class="salta" href="#contenuto">Vai al contenuto</a>
+  <header class="testata">
+    <a class="marchio" href="{{ '/' | relative_url }}">Cronache di Elindor</a>
+    <nav aria-label="Menu principale">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}#cronaca"{% if page.url == '/' %} aria-current="page"{% endif %}>Sessioni</a></li>
+        <li><a href="{{ '/mappa.html' | relative_url }}"{% if page.url == '/mappa.html' %} aria-current="page"{% endif %}>Mappa</a></li>
+        <li><a href="{{ '/lore.html' | relative_url }}"{% if page.url == '/lore.html' %} aria-current="page"{% endif %}>Lore</a></li>
+        <li><a href="{{ '/personaggi.html' | relative_url }}"{% if page.url == '/personaggi.html' %} aria-current="page"{% endif %}>Personaggi</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenuto">
+    {{ content }}
+  </main>
+
+  {% unless page.senza_piede %}
+  <footer class="piede">
+    <p>Cronache della campagna di Dungeons &amp; Dragons ambientata nel mondo di Elindor.</p>
+  </footer>
+  {% endunless %}
+</body>
+</html>

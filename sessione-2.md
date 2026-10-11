@@ -1,4 +1,10 @@
-Sessione 2 - Si va a SUD!
+---
+layout: sessione
+numero: "2"
+ordine: 2
+titolo: "Si va a SUD!"
+data: "21/01/2026"
+---
 
 La scena si apre sulla Faglia, Sielfer è sparito tra le piante mentre Equinox lo guardava, Hilopan ed Enoch vicini 
 alla faglia cercano di capire cosa hanno avanti. Equinox fa qualche passo indietro e comincia a scrivere qualcosa

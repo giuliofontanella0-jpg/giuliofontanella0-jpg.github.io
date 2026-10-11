@@ -1,0 +1,12 @@
+title: Cronache di Elindor
+description: Le cronache della campagna di Dungeons & Dragons ambientata nel mondo di Elindor.
+lang: it
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+# File che non devono finire sul sito
+exclude:
+  - README.md

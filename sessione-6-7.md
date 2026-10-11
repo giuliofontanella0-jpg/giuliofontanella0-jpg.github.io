@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "6 e 7"
+ordine: 6
+titolo: "Arrivo a VegliaCastello ed esplorazione della città"
+data: "9 e 16/03/2026"
+---
+
 Arrivano poi a VegliaCastello, sono circa le 6 di sera.
 Mura basse ma ispessite, rinforzate in fretta.
 Torri di guardia con fuochi sempre accesi, anche di giorno.

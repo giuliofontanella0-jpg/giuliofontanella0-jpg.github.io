@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "10"
+ordine: 10
+titolo: "Addio a VegliaCastello"
+data: "18/05/2026"
+---
+
 Dopo che lo spettro sparisce, i quattro si ritrovano dentro il negozio di Reminaldo, Equinox all'interno, Sielfer ed Enoch all'ingresso ed Hilopan che li aveva raggiunti alla porta. 
 L'umano e l'elfo hanno due ampolle, ma quelle di Enoch per un momento li incanta, poi ricordando le ultime parole di Enoch riguardo alla necessità di doversi dire la verità, si passa una mano sulla faccia 
 levandosi il trucco e scoprendo il suo vero volto, quello di un elfo Drow. Equinox comincia ad agitarsi e quasi come durante un attacco di panico scatta verso l'esterno, "Equinox, aspetta, se io mi sto mostrando per quello che sono è perché ho deciso di fidarmi di voi....ci siamo dentro insieme", gli dice Sielfer notando il suo repentino cambio di atteggiamento. Ma Equinox continua dritto, prende il suo amuleto e lo stringe forte.

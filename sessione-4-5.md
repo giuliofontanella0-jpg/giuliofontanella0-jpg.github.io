@@ -1,3 +1,11 @@
+---
+layout: sessione
+numero: "4 e 5"
+ordine: 4
+titolo: "L'incontro con Brambabosco e l'arrivo a VegliaCastello"
+data: "9 e 16/02/2026"
+---
+
 Equinox ed Enoch increduli vedono i due compagni l'uno contro l'altro, Sielfer a terra ed Hilopan accecato dalla rabbia pronto a colpire.
 Il cadavere a terra ora è più chiaro, ed anche gli altri due ne riescono a vedere le fattezze. A questa vista Equinox che fino a quel momento
 aveva mantenuto il sangue freddo scatta e si interpone tra i due litiganti, NON È POSSIBILE! 

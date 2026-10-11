@@ -1,4 +1,10 @@
-Sessione 1 - Il Prologo
+---
+layout: sessione
+numero: "1"
+ordine: 1
+titolo: "Il Prologo"
+data: "23/12/2025"
+---
 
 Quattro avventurieri si ritrovano nella città di PietraFonda a nord ovest del continente di Elindor.
 All'interno della locanda del Tizzone Rovente si trovano:
