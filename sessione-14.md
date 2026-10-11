@@ -3,7 +3,7 @@ layout: sessione
 numero: "14"
 ordine: 14
 titolo: "Accese discussioni in locanda"
-data: ""
+data: "21/07/2026"
 ---
 
 Il gruppo è dentro la locanda del Boccale Ricolmo, saranno circa le 14:15, c'è molta gente comunque.
