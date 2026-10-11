@@ -1,8 +1,8 @@
-Dopo la notte, Enoch si sveglia un po assente e non risponde ai compagni gia svegli ed attivi nel prepararsi per scendere a fare una colazione veloce e poi raggiungere il
+Dopo la notte, Enoch si sveglia un po' assente e non risponde ai compagni già svegli ed attivi nel prepararsi per scendere a fare una colazione veloce e poi raggiungere il
 negozio di Ravelion Suth per preparare il carico e partire verso Velenor.
 Prima di uscire Equinox li chiama a raccolta "Compagni, ieri abbiamo stretto un patto, di amicizia, come ha detto Hilopan solo insieme possiamo pensare di avere una speranza 
 contro il male che sta dilaniando il nostro mondo, il nostro viaggio sarà lungo ed insidie si presenteranno a noi, lasciate che la benedizione della mia divinità vi protegga".
-Scesi a fare colazione vedono un po di agitazione da parte del locandiere e di uno dei garzoni..."ma dov'è finito tuo fratello? in che senso ieri non è tornato a casa?" "non lo so
+Scesi a fare colazione vedono un po' di agitazione da parte del locandiere e di uno dei garzoni..."ma dov'è finito tuo fratello? in che senso ieri non è tornato a casa?" "non lo so
 mi sto preoccupando....non è da lui". Ma ad ogni modo non ci prestano troppa attenzione, fanno colazione ed escono.
 Arrivano da Ravelion che li saluta e li ringrazia, preparano il carretto caricano quattro grosse botti e due botti più piccole, assicurano due dei loro cavalli e poi l'uomo porge il foglio 
 di via ad Equinox, "con questo spero non avrete problemi ad entrare in città, fate buon viaggio, ricordatevi la consegna va fatta ad Aric Valdor". 
@@ -12,35 +12,35 @@ Il loro viaggio verso Velenor ha inizio.
 <img width="1079" height="720" alt="image" src="https://github.com/user-attachments/assets/3b39412d-571b-4117-ae9c-d8ec3dc9d79f" />
 
 Usciti da VegliaCastello Hilopan lancia un incantesimo di furtività e Sielfer evoca il suo famiglio, tramite un piccolo portale dimensionale nero appare un corvo e gli dice di sorvegliare
-il loro cammino dall'alto. Questa cosa attira l'attenzione dei suoi compagni "Sielfer, cos'è la magia hai appena usato?" chiede Equinox "oh bhe, questo è il mio famiglio, Mijenta".
-Equinox, sentendo la parola famiglio scava un po nella sua memoria, ma non coglie niente di significativo se non qualche conoscenza circa le magie di evocazione, Enoch ricoonsce la magia 
-specifica e resta un po sorpreso delle abilità del compagno che tuttavia non associa alla magia della natura che lui conosce, mentre Hilopan invece associa questa evocazione animale come "innaturale"
+il loro cammino dall'alto. Questa cosa attira l'attenzione dei suoi compagni "Sielfer, cos'è la magia hai appena usato?" chiede Equinox "oh beh, questo è il mio famiglio, Mijenta".
+Equinox, sentendo la parola famiglio scava un po' nella sua memoria, ma non coglie niente di significativo se non qualche conoscenza circa le magie di evocazione, Enoch riconosce la magia 
+specifica e resta un po' sorpreso delle abilità del compagno che tuttavia non associa alla magia della natura che lui conosce, mentre Hilopan invece associa questa evocazione animale come "innaturale"
 e la considera magia sinistra.
-Dopo un po di cammino il sentiero che conduce a Velenor è tranquillo, del resto è la strada che porta alla capitale. Loro si tranquillizzano e cominciano a chiacchierare, Sielfer prende la parola
-e comincia a raccontare ad Equinox quanto successo ieri sera "Vedi, ieri io ed Enoch ci siamo intrufolati in casa del governatore in quanto avevamo stretto un accordo con Reminaldo, noi avremo recuperato
+Dopo un po' di cammino il sentiero che conduce a Velenor è tranquillo, del resto è la strada che porta alla capitale. Loro si tranquillizzano e cominciano a chiacchierare, Sielfer prende la parola
+e comincia a raccontare ad Equinox quanto successo ieri sera "Vedi, ieri io ed Enoch ci siamo intrufolati in casa del governatore in quanto avevamo stretto un accordo con Reminaldo, noi avremmo recuperato
 quella pergamena che abbiamo dato allo spettro e lui ci avrebbe dato gli inchiostri che ci servivano. In quella casa però abbiamo trovato cose particolari, tra cui la mappa delle precedenti faglie (resoconto
 sessione 8-9)."
 
 <img width="1024" height="1024" alt="Faglie" src="https://github.com/user-attachments/assets/b920696c-55d1-473e-9686-a5fe5fca43cf" />
 
-Sielfer continua, "le faglie sono datate, qualcuno è avanti con le ricerche, inoltre a Pietrafonda dove ci siamo incontrati, c'era una seconda faglia, poi tutte le altre, ma la cosa più strana è un cerchio
+Sielfer continua, "le faglie sono datate, qualcuno è avanti con le ricerche, inoltre a PietraFonda dove ci siamo incontrati, c'era una seconda faglia, poi tutte le altre, ma la cosa più strana è un cerchio
 rosso in una zona a sud est... vicino la zona delle paludi."
 "Sembra che stiano salendo..." dice Equinox, "Non conosco bene la zona del segno rosso, lì ci sono le paludi".
-Prende poi la parola Enoch "abbiamo anche trovato una lettera di Maelor indirizzata al governatore che collega Maelor, il governatore di Veglia Castello, la setta dell'Ombra Crepuscolare e perfino la regina Morghena, sembra stiano complottando insieme"
-ed Hilopan prende la parola "anche io ho visto, tamite Pocho, Maelor complottare con una strana persona incappucciata proprio ieri in città"
+Prende poi la parola Enoch "abbiamo anche trovato una lettera di Maelor indirizzata al governatore che collega Maelor, il governatore di VegliaCastello, la setta dell'Ombra Crepuscolare e perfino la regina Morghena, sembra stiano complottando insieme"
+ed Hilopan prende la parola "anche io ho visto, tramite Pocho, Maelor complottare con una strana persona incappucciata proprio ieri in città"
 "Che casualità..." dice Equinox "io ieri ho combattuto proprio con una persona che inizialmente nascondeva il suo volto, un elfo della setta, colui che poi ha ucciso Karkas. E sanno chi sono io, e dunque forse, potrebbero anche sapere chi siete voi."
 "Però abbiamo un vantaggio... loro non sanno che noi abbiamo ottenuto tutte queste informazioni ed ora le stiamo collegando" dice argutamente Hilopan.
 "Bene signori, ora però, bando alle ciance, sono due giorni che rimandiamo, è il momento di scoprire le carte" sentenzia Enoch.
-Equinox dopo questa frase accellera con il suo cavallo e si pone avanti al carretto fermandolo e sfoggia una levata sul suo destriero Zambo, poi guarda i compagni negli occhi e dice:
+Equinox dopo questa frase accelera con il suo cavallo e si pone avanti al carretto fermandolo e sfoggia una levata sul suo destriero Zambo, poi guarda i compagni negli occhi e dice:
 "Io sono Equinox paladino e servitore di Asterfall, al servizio di re Alderyon e della regina Lyssara e della principessa Alice Valenfall. Sono qui diretto a Velenor per scoprire, come voi, cosa sta accadendo alla magia delle nostre terre, ma non solo per questo. Io non sono legato ai luoghi, ma alle persone, io sono qui per proteggere la principessa. Domani a Velenor succederanno due cose, una è che domani avrà luogo un torneo al quale sembra presenzierà solo il re, non so l'orario, questa informazione mi è arrivata tramite la famosa spia che era stata catturata in città prima che noi entrassimo... e l'altra è che nel tardo pomeriggio (6 pm circa) ci sarà un matrimonio segreto tra il principe Tristano Keldras di Velenor e la principessa Alice Valenfall per sigillare la pace tra i due regni, ed io sono qui per proteggere la principessa. Sono stato inviato per monitorare la strada prima che la delegazione segreta del nord arrivi. Inoltre aggiungo e sottolineo quanto mi ha rivelato Karkas prima di essere ucciso dall'assassino della setta, quest'organizzazione è anche a corte, e forse i regnanti ne sono all'oscuro e rischiano."
 Hilopan poi interviene " Io ve lo ripeto se non saremo uniti non ci sarà nessun regno da salvare!" il suo è un tono molto grave, poi continua, "Io sono Hilopan vengo dai Boschi del Canto Antico (lo stesso bosco di Timbald Brambabosco) faccio parte di una piccola tribù di cultori della natura, l'arcidruido mi ha reso il druido che sono ora e mi ha affidato il compito di cercare un motivo e se possibile una soluzione al disequilibrio che ha colpito gli animali e tutta la natura in genere. Quando mi avete trovato privo di sensi nel giardino a VegliaCastello, ho avuto delle visioni, ho visto un Elementale della Terra, che io credevo scomparsi per sempre, e che mi ha condotto lontano da dove ero (vedi sessione 8-9), e poi alla fine mi ha chiesto di trovarli e salvarli."
 "Ma queste visioni le hai avute dopo che ti sei sentito male alla locanda?" chiede Equinox. "NO, ti ricordi quando ti dissi che sentivo una dissonanza, ebbene solo dopo averla trovata è cominciato tutto, solo dopo aver trovato quella creatura divina sono cominciate le visioni."
-"Ti ricordi qualcosa di questa strega?" continua Equinox, "Era incappucciata, però ho visto le unghie smmaltate di nero, ed i suoi capelli erano nero corvino, come la notte."
+"Ti ricordi qualcosa di questa strega?" continua Equinox, "Era incappucciata, però ho visto le unghie smaltate di nero, ed i suoi capelli erano nero corvino, come la notte."
 E loro cominciano a collegare la zona paludosa vicino alla quale nella mappa trovata in casa di Spandann vi era un cerchio rosso, la strega che potrebbe star avvelenando questa terra, la grande città militarizzata pronta alla guerra.... tutti concordano su una cosa " a Sud potremmo trovare risposte".
-"Se quel che dice Hilopan è vero e non solo frutto di una visione... abbiamo una pista concreta che ci conduce a Velenor dove gia stiamo andando ed alle paludi." dice Enoch, poi tira fuori il suo taccuino arrivando ad una lista di ogetti e continua " approfitto per dirvi qualcosa in più su di me, qui forse ho qualcosa che puoi aiutarci ad affrontare un nemico che è palesemente fuori dalla nostra portata...forse è lo stesso tipo di magia con cui stiamo avendo a che fare. Io sto intraprendendo questo viaggio anche per provare a trovare delle componenti per un incantesimo per richiamare entità tra questo mondo e gli altri. Ricordatevi una cosa su di me, IO SONO LIBERO NELLA MISURA IN CUI ME LO PERMETTE IL SENSO DI RESPONSABILITà CHE PROVO NEI CONFRONTI DELL'EQUILIBRIO DEL MONDO. Per il resto io non sono nessuno, non sono legato da obblighi religiosi o politici, vengo dai boschi Luccicanti al nord, sono stato cresciuto dagli elfi, ma la mia curiosità viene da ciò che ogni tanto mi viene mostrato nei sogni, ma non andrò oltre perchè sto ancora cercando di approfondire." 
-(Sia Hilopan che Equinox conosco gli elfi solari, per Hilopan sono come lontani cugini, per Equinox sono la base da cui nasce il culto della divinità Luce).
+"Se quel che dice Hilopan è vero e non solo frutto di una visione... abbiamo una pista concreta che ci conduce a Velenor dove già stiamo andando ed alle paludi." dice Enoch, poi tira fuori il suo taccuino arrivando ad una lista di oggetti e continua " approfitto per dirvi qualcosa in più su di me, qui forse ho qualcosa che può aiutarci ad affrontare un nemico che è palesemente fuori dalla nostra portata...forse è lo stesso tipo di magia con cui stiamo avendo a che fare. Io sto intraprendendo questo viaggio anche per provare a trovare delle componenti per un incantesimo per richiamare entità tra questo mondo e gli altri. Ricordatevi una cosa su di me, IO SONO LIBERO NELLA MISURA IN CUI ME LO PERMETTE IL SENSO DI RESPONSABILITÀ CHE PROVO NEI CONFRONTI DELL'EQUILIBRIO DEL MONDO. Per il resto io non sono nessuno, non sono legato da obblighi religiosi o politici, vengo dai boschi Luccicanti al nord, sono stato cresciuto dagli elfi, ma la mia curiosità viene da ciò che ogni tanto mi viene mostrato nei sogni, ma non andrò oltre perché sto ancora cercando di approfondire." 
+(Sia Hilopan che Equinox conoscono gli elfi solari, per Hilopan sono come lontani cugini, per Equinox sono la base da cui nasce il culto della divinità Luce).
 Cala il silenzio, ma poi Sielfer comincia a parlare:
-"Sono come voi ma anche molto diverso, io sono Sielfer, elfo drow, provengo dalle terre ad ovest di Elindor, oltre il mare, in questo momento ho 150 anni, secondo il conteggio comune, gran parte della mia vita l'ho passata schiavizzato dalla mia stessa gente e torturato, ho vissuto nell'odio facendo cose di cui mi pento. Poi recentemente ho deciso di scappare, sono stato per mare per molto tempo per poi approdare a PietraFonda inconsapevole delle vicissitudini di Elindor, ed ho incontrato voi e la nostra prima faglia. Voi mi chiedete perchè io mi stia muovendo verso sud, ed è lecito, anche se io non mi azzardo a chiederlo a voi, sono in cerca di mia sorella, è stata venduta ad uno schaivista tempo fa e da allora la cerco".
+"Sono come voi ma anche molto diverso, io sono Sielfer, elfo drow, provengo dalle terre ad ovest di Elindor, oltre il mare, in questo momento ho 150 anni, secondo il conteggio comune, gran parte della mia vita l'ho passata schiavizzato dalla mia stessa gente e torturato, ho vissuto nell'odio facendo cose di cui mi pento. Poi recentemente ho deciso di scappare, sono stato per mare per molto tempo per poi approdare a PietraFonda inconsapevole delle vicissitudini di Elindor, ed ho incontrato voi e la nostra prima faglia. Voi mi chiedete perché io mi stia muovendo verso sud, ed è lecito, anche se io non mi azzardo a chiederlo a voi, sono in cerca di mia sorella, è stata venduta ad uno schiavista tempo fa e da allora la cerco".
 "Avrai tutto il mio aiuto in questa nobile causa", dice Equinox con la mano sul petto in segno di rispetto e commozione
 "Ti ringrazio, ma nella mia vita ho capito una cosa, chi non è capace a badare a se stesso merita di finire male, quindi io non ho bisogno del vostro aiuto...ma ti ringrazio di cuore e sono felice di averti come amico" risponde Sielfer "ora cambiando discorso vorrei tradurvi la pergamena che abbiamo trovato in casa del governatore e che poi abbiamo dato allo spettro: (sessione 8-9)
 “Le acque sotto la pietra non sono morte.
@@ -53,8 +53,8 @@ Quando le aperture saranno allineate,
 Il Sigillo è debole”
 "
 Equinox poi caccia un fogliettino trovato da Reminaldo, anch'esso incompleto e lo passa a Sielfer che comincia a leggerlo, la calligrafia è la stessa di Reminaldo "Scusami paladino, mi sembrano incomprensibili" e glielo ripassa. Enoch dopo queste parole lo fissa, ma non dice niente, ma l'elfo ricambia lo sguardo e gli dice "molto interessante quell'inchiostro...vorresti dirci qualcosa di più al riguardo?"
-"non ne so molto in realtà" armaggia nella bisaccia e lo tira fuori "questo dovrebbe essere l'inchiostro Velo di Stelle, ed è uno dei componenti di cui vi parlavo per quell'incantesimo. Quella lista mi è stata dettata, ho la sensazione che questo sia il materiale giusto".
-Sielfer poi arrivati abbastanza vicino, da vedere le mura di Velenor manda in avanscoperta il suo famiglio, poi dicendo ad i compagni di fermarsi, si immobilizza, gli occhi si gli si girano all'indietro ed entra nel suo famiglio cominciadno a vedere quello che vede lui ed a descriverlo sotto gli occhi di tutti:
+"non ne so molto in realtà" armeggia nella bisaccia e lo tira fuori "questo dovrebbe essere l'inchiostro Velo di Stelle, ed è uno dei componenti di cui vi parlavo per quell'incantesimo. Quella lista mi è stata dettata, ho la sensazione che questo sia il materiale giusto".
+Sielfer poi arrivati abbastanza vicino, da vedere le mura di Velenor manda in avanscoperta il suo famiglio, poi dicendo ad i compagni di fermarsi, si immobilizza, gli occhi gli si girano all'indietro ed entra nel suo famiglio cominciando a vedere quello che vede lui ed a descriverlo sotto gli occhi di tutti:
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d74f15cd-fee2-4800-b80e-031ec44978c5" />
 
@@ -62,8 +62,8 @@ Fuori dal cancello di Velenor vi è una guardia, molti altri carretti stanno ent
 Il cielo è grigio e l'aria è pesante ed umida.
 "ALT! Chi siete?"
 "Buongiorno, stiamo trasportando un carico di liquore di Binx per nome di Ravelion Suth di VegliaCastello da consegnare ad Aric Valdor" risponde Equinox mostrando poi il foglio di viaggio.
-"E perchè il signor Suth non è qui di persona?" chiede la guardia "ieri il signor Suth è stato coinvolto in una rissa con dei malfattori ed ha riportato brutte lesioni, noi lo abbiamo soccorso e lui ci ha offerto questo lavoro". 
-"mhhh bhè si i tempi non sono semplici, queste cose capitano.... e voi chi siete" e chiede i nomi di tutti..."che strana compagnia, cosa vi portava giù a VegliaCastello?"
+"E perché il signor Suth non è qui di persona?" chiede la guardia "ieri il signor Suth è stato coinvolto in una rissa con dei malfattori ed ha riportato brutte lesioni, noi lo abbiamo soccorso e lui ci ha offerto questo lavoro". 
+"mhhh beh sì, i tempi non sono semplici, queste cose capitano.... e voi chi siete" e chiede i nomi di tutti..."che strana compagnia, cosa vi portava giù a VegliaCastello?"
 Prende la parola Enoch "in realtà noi quattro ci siamo trovati per coincidenza in quel momento ad aiutare il povero Ravelion, il quale c'ha offerto un lavoro, all'apparenza semplice....e come lei sa i tempi sono difficili... si fa quel che si può". 
 Chiama un'altra guardia, "aiutami a controllare vieni..." "ora noi diamo uno sguardo"
 Poi però Hilopan parla e dice "bene, potete fare tutti i controlli che volete, non abbiamo niente da nascondere. Immagino voi abbiate capito l'urgenza e l'importanza di questo carico, meglio che non ci sia nessun danno."
@@ -75,50 +75,50 @@ Arrivano dove indicato, vedono Aric Valdor "Ah maledizione è arrivato un altro 
 
 <img width="1379" height="1141" alt="image" src="https://github.com/user-attachments/assets/eea8ec23-530a-4e5b-b7bc-7ebead0b8751" />
 
-Aric Valdor va via, e rimane solo questo...ragazzo, un Tiefling maschio, che all'apparenza un po impacciato prova a mostrare autorità e senza dire una parola, mentre gli altr in silenzio lo guardano, comincia a girare ed osservare. Ma purtroppo nel fare questo, forse troppo concentrato, inciampa sulla sua stessa coda e cade a faccia in terra, facendosi anche male e sporcandosi un po la tunica. 
-Equinox però, vedendo la scena, scende da cavallo e gli porge un braccio per aiutarlo a rialzarsi, "tranquillo ragazzo non badare ai sopprusi" gli dice. 
+Aric Valdor va via, e rimane solo questo...ragazzo, un Tiefling maschio, che all'apparenza un po' impacciato prova a mostrare autorità e senza dire una parola, mentre gli altri in silenzio lo guardano, comincia a girare ed osservare. Ma purtroppo nel fare questo, forse troppo concentrato, inciampa sulla sua stessa coda e cade a faccia in terra, facendosi anche male e sporcandosi un po' la tunica. 
+Equinox però, vedendo la scena, scende da cavallo e gli porge un braccio per aiutarlo a rialzarsi, "tranquillo ragazzo non badare ai soprusi" gli dice. 
 Daniel senza rispondere, accetta l'aiuto, si rialza ed evoca uno strano incantesimo, compare un disco magico sul quale lui sale e dice "Seguitemi!". 
-Tutti restano un po spaesati da questa cosa, da questo nuovo soggetto, però lo seguono verso la zona est della città superando un altro cancello ed arrivando nel grande cortile dove si terrà il torneo. 
+Tutti restano un po' spaesati da questa cosa, da questo nuovo soggetto, però lo seguono verso la zona est della città superando un altro cancello ed arrivando nel grande cortile dove si terrà il torneo. 
 
 <img width="1181" height="1331" alt="image" src="https://github.com/user-attachments/assets/abea2b20-857a-4d33-b49b-6fe89413c427" />
 
 Quello che vedono è:
-un grande giardino verso sud, la zona centrale con il campo per le giostre dei cavalieri ed un grande tendone per gli spettacoli circensi. Tutto un lato un grande magazzino che funge anche da luogo di risotoro, più sopra un'arena usata per gli spettacoli teatrali. Molta gente che va e viene, scudieri, sguatteri, guardie e cavalieri, mercanti.
+un grande giardino verso sud, la zona centrale con il campo per le giostre dei cavalieri ed un grande tendone per gli spettacoli circensi. Tutto un lato un grande magazzino che funge anche da luogo di ristoro, più sopra un'arena usata per gli spettacoli teatrali. Molta gente che va e viene, scudieri, sguatteri, guardie e cavalieri, mercanti.
 Vedono inoltre passare carri con gabbie con animali selvaggi.
 E poi in fondo dietro il grande tendone, dopo l'arena, dietro un'altra cinta di mura, la grande fortezza di Velenor.
-"Bene, ora potete scaricare qui", Daniel chiama tre guardie e cominciano a scaricare, Equinox e Sielfer però provano ad aiutare "Dove dobbiamo portali soldato?" chiede il paladino.
-"eh no, il vostro lavoro finisce qui, a questo ci pensiamo noi" risponde una delle guardie, visibilemnte scocciata e provata dal peso del carico. 
+"Bene, ora potete scaricare qui", Daniel chiama tre guardie e cominciano a scaricare, Equinox e Sielfer però provano ad aiutare "Dove dobbiamo portarli soldato?" chiede il paladino.
+"eh no, il vostro lavoro finisce qui, a questo ci pensiamo noi" risponde una delle guardie, visibilmente scocciata e provata dal peso del carico. 
 "Il nostro compito non è ancora stato portato a termine e dobbiamo essere sicuri che tutto sia in ordine...per essere sicuri di essere pagati", risponde Sielfer con della persuasione
-"Bhè allora se ci tenete, vedete quel magazzino, portate un barile lì". 
-Equinox e Sielfer cominciano a prendere un barile ma nel mentre al mezz'elfo cade l''occhio su una grata delle fognature, ce ne sono varie in città, come aveva anche fatto presente famiglio di Sielfer, ma ora vedendola attentamente capisce che questa almeno è semplicemente ad appoggio, non ha lucchetto, ed è plausibile che sotto vi siano delle fognature. 
-Hilopan ed Enoch mentre vedono i compagni affaticarsi con i barili decidono di spostarsi scendendo dai cavalli e dal carretto per sgranchirsi un po le gambe e guardarsi attorno.
-Enoch si avvicina a Daniel ancora seduto sul suo disco "affascinante tipo di stregoneria, dove l'hai imparata?" con aria un po distratta guardando anche gli altri "ho studiato da autodidatta, sono appassionato di magia", 
+"Beh allora se ci tenete, vedete quel magazzino, portate un barile lì". 
+Equinox e Sielfer cominciano a prendere un barile ma nel mentre al mezz'elfo cade l'occhio su una grata delle fognature, ce ne sono varie in città, come aveva anche fatto presente il famiglio di Sielfer, ma ora vedendola attentamente capisce che questa almeno è semplicemente ad appoggio, non ha lucchetto, ed è plausibile che sotto vi siano delle fognature. 
+Hilopan ed Enoch mentre vedono i compagni affaticarsi con i barili decidono di spostarsi scendendo dai cavalli e dal carretto per sgranchirsi un po' le gambe e guardarsi attorno.
+Enoch si avvicina a Daniel ancora seduto sul suo disco "affascinante tipo di stregoneria, dove l'hai imparata?" con aria un po' distratta guardando anche gli altri "ho studiato da autodidatta, sono appassionato di magia", 
 "Quindi non hai mai avuto un maestro?" gli risponde Enoch, "No"
 ed istantaneamente notando che Equinox e Sielfer stanno per entrare nel magazzino per depositare i barili, luogo privato per chi lavora al torneo, si teletrasporta davanti a loro bloccandoli 
 "Per favore, rimanete vicino a me, non allontanatevi, se volete possiamo andare a bere e mangiare qualcosa insieme" gli dice con tutta calma.
 Calma che però non viene recepita dai due che quasi fanno cadere il barile spaventati da questo gesto, "Non ti permettere mai più" gli intima Sielfer, che continua a sorreggere il carico insieme al suo compagno anche infastidito da questo gesto.
 "Scusami... non volevo spaventarvi, però per favore non allontanatevi altrimenti se la prendono con me" risponde Daniel
 "Allora, che fate lo portate o no quel barile" urla una guardia da dentro al magazzino
-"Possiamo andare?" chiede Sielfer "Si però per favore poi tornate qui".
+"Possiamo andare?" chiede Sielfer "Sì, però per favore poi tornate qui".
 Entrano nel magazzino per posare il barile ma velocemente li fanno uscire, però vedono tanti barili di birra, ma i loro sono sicuramente i più importanti. Vi sono grandi riserve di cibo, animali, ci sono fuochi d'artificio, rastrelliere per le armi. 
-Uscendo poi Equinox parla con la guardia e gli chiede informazioni sul torneo " mi scusi ma a che ora comincia il torneo e chiunque puo assistere?"
+Uscendo poi Equinox parla con la guardia e gli chiede informazioni sul torneo " mi scusi ma a che ora comincia il torneo e chiunque può assistere?"
 "Il torneo comincia alle 11 domani, ci sarà anche un gran premio, c'è bisogno di un invito, in città potete registrarvi per partecipare alla locanda nord si prendono i nomi, entro questa sera alle 21, sia potete comprare un biglietto per gli spettacoli" 
-Enoch invece lasciato solo da Daniel all'improvviso si guarda un po attorno ed aguzza le orecchie, finche non trova una persona che attira la sua attenzione, una persona vestita con una lunga toga bianca, pelato, con un grosso stemma a sette punte sul petto ricamato in argento, indicando che lui è un alto cardinale o comunque una persona di spicco della religione. 
+Enoch invece lasciato solo da Daniel all'improvviso si guarda un po' attorno ed aguzza le orecchie, finché non trova una persona che attira la sua attenzione, una persona vestita con una lunga toga bianca, pelato, con un grosso stemma a sette punte sul petto ricamato in argento, indicando che lui è un alto cardinale o comunque una persona di spicco della religione. 
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/29ffbf17-576d-4819-aa8d-6a6ee7b04759" />
 
-"Nono allora, la delegazione del nord deve andare sul lato orientale, quante volte devo ripetervelo... poi abbiamo le scorte di vino che arriveranno direttamente domani, mentre DOVE SONO I BARILI DI QUEL MENDICANTE DI SUTH! DOVEVA ARRIVARE STAMANE!" dice l'uomo... Poi un ragazzino gli va vicino e dice "sua emminenza, Monsignore Valcrest, guardi, in realtà il liquore di binx è appena stato consegnato" ed indica il gruppo e poi Daniel "vede lì c'è Daniel, il tiefling, che li ha portati proprio qui". 
-Infastidito borbotta "Perchè sono stati portati qui quei forestieri.... non potevano scaricare fuori..." e si avvicina. "DANIEL!" urla sua eminenza guardano i quattro cavalli, il carretto e gli stranieri "Daniel, Daniel mio caro ragazzo, era proprio necessario condurre gli stranieri fin qui? non potevano semplicemente scaricare alle guardie fuori?" 
+"No no, allora, la delegazione del nord deve andare sul lato orientale, quante volte devo ripetervelo... poi abbiamo le scorte di vino che arriveranno direttamente domani, mentre DOVE SONO I BARILI DI QUEL MENDICANTE DI SUTH! DOVEVA ARRIVARE STAMANE!" dice l'uomo... Poi un ragazzino gli va vicino e dice "sua eminenza, Monsignore Valcrest, guardi, in realtà il liquore di Binx è appena stato consegnato" ed indica il gruppo e poi Daniel "vede lì c'è Daniel, il tiefling, che li ha portati proprio qui". 
+Infastidito borbotta "Perché sono stati portati qui quei forestieri.... non potevano scaricare fuori..." e si avvicina. "DANIEL!" urla sua eminenza guardando i quattro cavalli, il carretto e gli stranieri "Daniel, Daniel mio caro ragazzo, era proprio necessario condurre gli stranieri fin qui? non potevano semplicemente scaricare alle guardie fuori?" 
 "Guardi sua eminenza, dicono che il carico è molto importante e volevano sincerarsi che tutto fosse in ordine, abbiamo finito e stavo per scortarli alla locanda dove alloggeranno", risponde il ragazzo.
-"Giovanotto, è bene che tu faccia molta attenzione" con un gesto della manogli annulla il disco facendolo cadere con il sedere per terra e continua "penso che ti sia stato detto molte volte di limitare questi tuoi trucchetti in piena città soprattutto avanti a gente di fuori... se non vuoi finire di nuovo, dove sai.... ci siamo capiti?"
-"Mi scusi si ho capito non succederà di nuovo"
-Poi sua eminenza guarda tutti e con tono più pacato dice "giovnaotti, grazie per il vostro servigio, prendete le vostre cose ed andate".
+"Giovanotto, è bene che tu faccia molta attenzione" con un gesto della mano gli annulla il disco facendolo cadere con il sedere per terra e continua "penso che ti sia stato detto molte volte di limitare questi tuoi trucchetti in piena città soprattutto avanti a gente di fuori... se non vuoi finire di nuovo, dove sai.... ci siamo capiti?"
+"Mi scusi, sì, ho capito non succederà di nuovo"
+Poi sua eminenza guarda tutti e con tono più pacato dice "giovanotti, grazie per il vostro servigio, prendete le vostre cose ed andate".
 Equinox presta molta attenzione a quest'uomo, e riconosce il suo simbolo religioso, poi aiuta Daniel e gli dice "dai usciamo di qui".
 Daniel li guarda e lasciando trasparire la noia verso tutta questa pesantezza, verso i protocolli di questa città sbuffa ed alza gli occhi al cielo. 
 "Cavolo eh qui è pieno di persone antipatiche" dice Equinox a tutti ma prevalentemente verso Daniel.
 Uscendo dall'area del torneo, Hilopan prende un momento Enoch in disparte e gli dice "Ma che ne pensi se ci iscriviamo ai giochi, io mi trasformo da orso e tu fai il mio ammaestratore?"
 "Mhh sembra molto interessante, pensiamoci" risponde lo stregone
-Poi Daniel camminando avanti a loro si gira e gli dice "Guardate, ora andiamo nella locanda, un luogo abbastanza rumoroso, così possiamo parlare tranquillamente, io personalmente non ho molto da fare, quindi sarei felice di seguirvi oggi se per voi va bene e mostrarvi un po la città.... così evito anche che mi diano altri compiti noiosi".
+Poi Daniel camminando avanti a loro si gira e gli dice "Guardate, ora andiamo nella locanda, un luogo abbastanza rumoroso, così possiamo parlare tranquillamente, io personalmente non ho molto da fare, quindi sarei felice di seguirvi oggi se per voi va bene e mostrarvi un po' la città.... così evito anche che mi diano altri compiti noiosi".
 Tutti lo ringraziano. 
 Continuano a camminare poi d'un tratto sentono grande clamore, rumore di folla che si accalca, ci sono umani, mezz'orchi, guardie la città è molto variopinta poi arrivano ad una piazza abbastanza larga e vedono passare la carrozza reale, vedono il re, la regina ed il principe. 
 
@@ -133,4 +133,4 @@ Ma i loro occhi si soffermano particolarmente sulla bellezza della regina Morghe
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/3289d438-2fbe-4dc9-a8e3-6edf4c1ecbca" />
 
 Hilopan però ha un sussulto e non in relazione alla sua bellezza, per un attimo si ferma e resta di stucco, ma gli altri non se ne accorgono; allo stesso modo Enoch sforzandosi di non guardare la bellezza della regina nota un piccolo dettaglio, una strana piccola ampolla attaccata ad un braccialetto al polso. 
-Ed infine la carrozza va via la folla la segue e si disperde i personaggi tornano a seguire Daniel, ma sielfer che si trovava dietro tutti urta per sbaglio una persona incappucciata, una ragazza, uno sguardo troppo veloce a quegli occhi "Fai attenzione plebeo", e se ne va.
+Ed infine la carrozza va via la folla la segue e si disperde i personaggi tornano a seguire Daniel, ma Sielfer che si trovava dietro tutti urta per sbaglio una persona incappucciata, una ragazza, uno sguardo troppo veloce a quegli occhi "Fai attenzione plebeo", e se ne va.
