@@ -102,7 +102,7 @@ Calma che però non viene recepita dai due che quasi fanno cadere il barile spav
 "Possiamo andare?" chiede Sielfer "Sì, però per favore poi tornate qui".
 Entrano nel magazzino per posare il barile ma velocemente li fanno uscire, però vedono tanti barili di birra, ma i loro sono sicuramente i più importanti. Vi sono grandi riserve di cibo, animali, ci sono fuochi d'artificio, rastrelliere per le armi. 
 Uscendo poi Equinox parla con la guardia e gli chiede informazioni sul torneo " mi scusi ma a che ora comincia il torneo e chiunque può assistere?"
-"Il torneo comincia alle 11 domani, ci sarà anche un gran premio, c'è bisogno di un invito, in città potete registrarvi per partecipare alla locanda nord si prendono i nomi, entro questa sera alle 21, sia potete comprare un biglietto per gli spettacoli" 
+"Il torneo comincia alle 11 domani, ci sarà anche un gran premio, c'è bisogno di un invito, in città potete registrarvi per partecipare alla locanda nord si prendono i nomi, entro questa sera alle 19, sia potete comprare un biglietto per gli spettacoli" 
 Enoch invece lasciato solo da Daniel all'improvviso si guarda un po' attorno ed aguzza le orecchie, finché non trova una persona che attira la sua attenzione, una persona vestita con una lunga toga bianca, pelato, con un grosso stemma a sette punte sul petto ricamato in argento, indicando che lui è un alto cardinale o comunque una persona di spicco della religione. 
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/29ffbf17-576d-4819-aa8d-6a6ee7b04759" />

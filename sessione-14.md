@@ -43,7 +43,7 @@ Ma Sielfer risponde indicando Daniel "No, aspetta, ma questo chi lo conosce?"
 "Fidati Sielfer, evidentemente qui fuori è successo qualcosa di importante, ed è il caso di parlarne tutti"
 Ma Sielfer risponde ancora indicando Daniel "Se tu sentissi di che magia si occupa costui, non gli crederesti nemmeno per un secondo!"
 
-Senza alcun senso, Hilopan tornato in sé comincia a parlare "Semplicemente un bambino mi ha donato un fiore, questo fiore di margherita.
+Senza alcun senso, Hilopan tornato in sé comincia a parlare "Semplicemente un bambino mi ha donato un fiore, questo fiore di camomilla.
 Non ho voluto dire niente perché questa città non mi piace (e guarda Daniel) e volevo evitare che quel bambino potesse passare dei guai,
 se voi non l'avete visto è perché magari è stato molto veloce, si è mischiato tra la folla"
 

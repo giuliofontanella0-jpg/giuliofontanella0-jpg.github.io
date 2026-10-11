@@ -8,7 +8,7 @@ Decidono che se gli avessero fatto domande loro erano un gruppo di avventurieri 
 Piccola tensione
 Davanti a loro un uomo viene trascinato via.
 Motivo: sospettato di essere una spia del Nord
-Mentre stanno temporeggiando vedono un uomo portato via di forza “UNA SPIA DEL SUD, L’ABBIAMO PRESA, PORTIAMOLA DENTRO”. Equinox a queste parole si allerta, ma non riesce a vedere l’uomo che però farfuglia qualcosa, e la voce gli sembra familiare… Vedono tutti però che è un umano, in armatura, con lo stemma del cervo del nord, ma essenzialmente non stava facendo niente di strano. 
+Mentre stanno temporeggiando vedono un uomo portato via di forza “UNA SPIA DEL NORD, L’ABBIAMO PRESA, PORTIAMOLA DENTRO”. Equinox a queste parole si allerta, ma non riesce a vedere l’uomo che però farfuglia qualcosa, e la voce gli sembra familiare… Vedono tutti però che è un umano, in armatura, con lo stemma del cervo del nord, ma essenzialmente non stava facendo niente di strano. 
 Rimane una sola guardia avanti al cancello, Hilopan manda Pocho in perlustrazione
 «Nomi. Provenienza. Motivo del viaggio, Dove avete intenzione di alloggiare, trasportate oggetti particolari (magici)?.»”
 Equinox si presenta per primo, Enoch, Hilopan, e Sielfer tutti per lavoro. Non trasportano niente di magico. 
